@@ -47,13 +47,10 @@ Honors and Awards
 Academic Services
 ======
 **Conference Program Committee**
-
 AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE (23-now), LT-EDI-ACL 2022 @ ACL'22
 
 **Organizer**
-
 ITPSS @ IJCAI’23-24, CoachAI Challenge @ IJCAI’23, SocialNLP 2022 @ WWW'22 and NAACL'22
 
 **Student Volunteer**
-
 IJCAI'23, KDD'23
