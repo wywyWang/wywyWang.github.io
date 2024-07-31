@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Wei-Yao Wang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,6 +28,48 @@ Research Experience
 - [Jun. 2018 - Jun. 2022] Project Lead & Research Scientist, Precision Sport Science - Coach AI in Badminton ([project link](https://github.com/wywyWang/CoachAI-Projects))
 - [Jul. 2018 - Jun. 2020] Database Administrator, NCTU CS Curriculum Assistant
 
+Publications
+======
+### Preprints
+1. Ching Chang, <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, Tien-Fu Chen, "LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters". [[preprint](https://arxiv.org/abs/2308.08469)]
+2. <ins>Wei-Yao Wang</ins>, Wei-Wei Du, Derek Xu, Wei Wang, Wen-Chih Peng, "A Survey on Self-Supervised Learning for Non-Sequential Tabular Data". [[preprint](https://arxiv.org/abs/2402.01204)]
+3. <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, Wei Wang, Philip Yu, "ShuttleSHAP: A Turn-Based Feature Attribution Approach for Analyzing Forecasting Models in Badminton". [[preprint](https://arxiv.org/abs/2312.10942)]
+
+### Journals and Conferences
+1. \textbf{Wei-Yao Wang*}, Xiusi Chen*, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang, "Professional Basketball Player Behavior Synthesis via Planning with Diffusion", *33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024* (acceptance rate: 33.3%). [[paper](https://arxiv.org/abs/2306.04090)]
+2. Kuang-Da Wang, \textbf{Wei-Yao Wang}, Ping-Chun Hsieh, Wen-Chih Peng, "Offline Imitation of Badminton Player Behavior via Experiential Contexts and Brownian Motion", *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024* (acceptance rate: 24.5%). [[paper](https://arxiv.org/abs/2403.12406)]
+3. \textbf{Wei-Yao Wang}, Wei-Wei Du, Wen-Chih Peng, "Benchmarking Stroke Forecasting with Stroke-Level Badminton Dataset", *33rd International Joint Conference on Artificial Intelligence (IJCAI Demo), 2024*. [[paper](https://arxiv.org/abs/2306.15664)]
+4. Ching Chang, Chiao-Tung Chan, \textbf{Wei-Yao Wang}, Wen-Chih Peng, Tien-Fu Chen, "TimeDRL: Disentangled Representation Learning for Multivariate Time-Series", *IEEE International Conference on Data Engineering (ICDE), 2024*. [[paper](https://arxiv.org/abs/2312.04142)]
+5. Chih-Chia Li, \textbf{Wei-Yao Wang}, Wei-Wei Du, Wen-Chih Peng, "Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal", *Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024*. [[paper](https://arxiv.org/abs/2212.12190)]
+6. \textbf{Wei-Yao Wang}, Yu-Chieh Chang, Wen-Chih Peng, "Style-News: Incorporating Stylized News Generation and Adversarial Verification for Neural Fake News Detection", *18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024* (acceptance rate: 20.3%). [[paper](https://aclanthology.org/2024.eacl-long.92/)]
+7. Zheng-Ming Lin, Ching Chang, \textbf{Wei-Yao Wang}, Kuang-Da Wang, Wen-Chih Peng, "Root Cause Analysis In Microservice Using Neural Granger Causal Discovery", *38th AAAI Conference on Artificial Intelligence (AAAI), 2024* (acceptance rate: 23.75%). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27772)]
+8. Ying-Ying Chang, \textbf{Wei-Yao Wang}, Wen-Chih Peng, "SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter", *38th AAAI Conference on Artificial Intelligence (AAAI), 2024* (acceptance rate: 23.75%). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27752)]
+9. Kuang-Da Wang, Yu-Tse Chen, Yu-Heng Lin, \textbf{Wei-Yao Wang}, Wen-Chih Peng, "The CoachAI Badminton Environment: Bridging the Gap Between a Reinforcement Learning Environment and Real-World Badminton Games", *38th AAAI Conference on Artificial Intelligence (AAAI Demo), 2024*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30584)]
+10. Kuang-Da Wang, \textbf{Wei-Yao Wang}, Yu-Tse Chen, Yu-Heng Lin, Wen-Chih Peng, "The CoachAI Badminton Environment: A Novel Reinforcement Learning Environment with Realistic Opponents (Student Abstract)", *38th AAAI Conference on Artificial Intelligence (AAAI), 2024*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30523)]
+11. Yu-Chien Tang, \textbf{Wei-Yao Wang}, An-Zi Yen, Wen-Chih Peng, "RSVP: Customer Intent Detection via Agent Response Contrastive and Generative Pre-Training", *2023 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023*. [[paper](https://arxiv.org/abs/2310.09773)]
+12. Wei-Wei Du, \textbf{Wei-Yao Wang}, Wen-Chih Peng, "DoRA: Domain-Based Self-Supervised Learning Framework for Low-Resource Real Estate Appraisal", *32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023* (acceptance rate: 32%). [[paper](https://dl.acm.org/doi/10.1145/3583780.3615470)]
+13. \textbf{Wei-Yao Wang}, Yung Chang Huang, Tsi-Ui Ik, Wen-Chih Peng, "ShuttleSet: A Human-Annotated Stroke-Level Singles Dataset for Badminton Tactical Analysis", *29TH ACM SIGKDD Conference On Knowledge Discovery And Data Mining (KDD), 2023* (acceptance rate: 25.4%). [[paper](https://dl.acm.org/doi/10.1145/3580305.3599906)]
+14. Kai-Shiang Chang, \textbf{Wei-Yao Wang}, Wen-Chih Peng, "Where Will Players Move Next? Dynamic Graphs and Hierarchical Fusion for Movement Forecasting in Badminton", *37th AAAI Conference on Artificial Intelligence (AAAI), 2023* (acceptance rate: 19.6%). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25855)]
+15. Li-Chun Huang, Nai-Zen Hseuh, Yen-Che Chien, \textbf{Wei-Yao Wang}, Kuang-Da Wang, Wen-Chih Peng, "A Reinforcement Learning Badminton Environment for Simulating Player Tactics (Student Abstract)", *37th AAAI Conference on Artificial Intelligence (AAAI), 2023*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26976)]
+16. \textbf{Wei-Yao Wang}, "Modeling Turn-Based Sequences for Player Tactic Applications in Badminton Matches", *31st ACM International Conference on Information and Knowledge Management (CIKM), 2022*. [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557820)]
+17. \textbf{Wei-Yao Wang}, Teng-Fong Chan, Wen-Chih Peng, Hui-Kuo Yang, Chih-Chuan Wang, Yao-Chung Fan, "How Is the Stroke? Inferring Shot Influence in Badminton Matches via Long Short-Term Dependencies", *ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 14, No. 1, pp1-22, 2022*. [[paper](https://dl.acm.org/doi/full/10.1145/3551391)]
+18. \textbf{Wei-Yao Wang}, Hong-Han Shuai, Kai-Shiang Chang, Wen-Chih Peng, "ShuttleNet: Position-Aware Fusion of Rally Progress and Player Styles for Stroke Forecasting in Badminton", *37th AAAI Conference on Artificial Intelligence (AAAI), 2022* (acceptance rate: 15%). [[paper](https://arxiv.org/abs/2112.01044)]
+19. \textbf{Wei-Yao Wang}, Teng-Fong Chan, Hui-Kuo Yang, Chih-Chuan Wang, Yao-Chung Fan, Wen-Chih Peng, "Exploring the Long Short-Term Dependencies to Infer Shot Influence in Badminton Matches", *The 21st IEEE International Conference on Data Mining (ICDM), 2021* (acceptance rate: 20%). [[paper](https://arxiv.org/abs/2109.06431)]
+20. \textbf{Wei-Yao Wang}, Kai-Shiang Chang, Teng-Fong Chen, Chih-Chuan Wang, Wen-Chih Peng, Chih-Wei Yi, “Badminton Coach AI: A badminton match data analysis platform based on deep learning”, *Physical Education Journal, vol.53, no.2, pp.201–213, 2020*. [[paper](https://www.airitilibrary.com/Publication/alDetailedMesh?docid=10247297-202006-202007060015-202007060015-201-213)]
+
+### Workshops
+1. Kuang-Da Wang, Yu-Tse Chen, Yu-Heng Lin, \textbf{Wei-Yao Wang}, Wen-Chih Peng, "The CoachAI Badminton Environment: Improving Badminton Player Tactics with A Novel Reinforcement Learning Environment", *ACM SIGKDD Workshop on on Data Science and AI for Sports, 2023*.
+2. Kuang-Da Wang, \textbf{Wei-Yao Wang}, Ping-Chun Hsieh, Wen-Chih Peng, "Generating Turn-Based Player Behavior via Experience from Demonstrations", *ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling, 2023*. [[paper](https://openreview.net/forum?id=9cuULoi7Ex)]
+3. Chih-Chia Li, \textbf{Wei-Yao Wang}, Wei-Wei Du, Wen-Chih Peng, "Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal", *AAAI Workshop on Modelling Uncertainty in the Financial World, 2023* (**Best paper award**). [[paper](https://arxiv.org/abs/2212.12190)]
+4. Wei-Wei Du, Hong-Wei Wu, \textbf{Wei-Yao Wang}, Wen-Chih Peng, "Team Triple-Check at Factify 2: Parameter-Efficient Large Foundation Models with Feature Representations for Multi-Modal Fact Verification", *AAAI Workshop on Multimodal Fact Checking and Hate Speech Detection, 2023*. [[paper](https://arxiv.org/abs/2302.07740)]
+5. Wei-Wei Du, \textbf{Wei-Yao Wang}, Wen-Chih Peng, "Track2Vec: Fairness Music Recommendation with a GPU-Free Customizable-Driven Framework", *CIKM Workshop on A Rounded Evaluation of Recommender Systems, 2022*. [[paper](https://ceur-ws.org/Vol-3318/short10.pdf)]
+6. \textbf{Wei-Yao Wang}, Wei-Wei Du, Wen-Chih Peng, "RecFormer: Personalized Temporal-Aware Transformer for Fair Music Recommendation", *CIKM Workshop on A Rounded Evaluation of Recommender Systems, 2022*. [[paper](https://ceur-ws.org/Vol-3318/short9.pdf)]
+7. Lun-Wei Ku, Cheng-Te Li, Yu-Che Tsai, \textbf{Wei-Yao Wang}, "Proceedings of the Tenth International Workshop on Natural Language Processing for Social Media (SocialNLP 2022)", *NAACL Workshop on International Workshop on Natural Language Processing for Social Media, 2022*. [[paper](https://aclanthology.org/2022.socialnlp-1.0/)]
+8. \textbf{Wei-Yao Wang*}, Yu-Chien Tang*, Wei-Wei Du*, Wen-Chih Peng, "NYCU\_TWD@LT-EDI-ACL2022: Ensemble Models with VADER and Contrastive Learning for Detecting Signs of Depression from Social Media", *ACL Workshop on Language Technology for Equality, Diversity, Inclusion, 2022*. [[paper](https://aclanthology.org/2022.ltedi-1.15/)]
+9. Lun-Wei Ku, Cheng-Te Li, Yu-Che Tsai, \textbf{Wei-Yao Wang}, "SocialNLP’22: 10th International Workshop on Natural Language Processing for Social Media", *WWW Workshop on Natural Language Processing for Social Media, 2022*. [[paper](https://dl.acm.org/doi/10.1145/3487553.3524876)]
+10. Yu-Wun Tseng, Hui-Kuo Yang, \textbf{Wei-Yao Wang}, Wen-Chih Peng, "KAHAN: Knowledge-Aware Hierarchical Attention Network for Fake News Detection on Social Media", *WWW Workshop on Natural Language Processing for Social Media, 2022*. [[paper](https://dl.acm.org/doi/10.1145/3487553.3524664)]
+11. \textbf{Wei-Yao Wang}, Wen-Chih Peng, "Team Yao at Factify 2022: Utilizing Pre-trained Models and Co-attention Networks for Multi-Modal Fact Verification", *AAAI Workshop on Multimodal Fact Checking and Hate Speech Detection, 2022* (**Best Paper Award**). [[paper](https://arxiv.org/abs/2201.11664)]
+
 Honors and Awards
 ======
 1. [Sep. 2023] Sports Science Research Award, *Sport Administration, Ministry of Education*
@@ -43,6 +85,18 @@ Honors and Awards
 11. [Jan. 2022] Top Research of AI and Information Technology Scholarship, *Appier*
 12. [Aug. 2019] The Yin Zhi Tong Memorial Scholarship, *National Yang Ming Chiao Tung University*
 13. [Jul. 2019] College Student Research Scholarship, *Ministry of Science and Technology*
+
+Competition Awards
+======
+1. [Dec. 2022] **1st Place in Factify 2.0 Challenge**, De-Factify @ AAAI 2023 Workshop [[code](https://github.com/wwweiwei/Pre-CoFactv2-AAAI-2023)]
+2. [Oct. 2022] **4th Place in Rounded Evaluation of Recommender Systems**, EvalRS @ CIKM’22 Workshop
+3. [Feb. 2022] **2nd Place in Detecting Signs of Depression from Social Media Text**, LT-EDI @ ACL 2022 Workshop [[code](https://github.com/wywyWang/Depression-Detection-LT-EDI-ACL-2022)]
+4. [Nov. 2021] **5th Place and Best Paper Award in Factify Challenge**, De-Factify @ AAAI 2022 Workshop [[code](https://github.com/wywyWang/Multi-Modal-Fact-Verification-2021)]
+5. [Sep. 2021] **3rd Place and National Judges Award**, Legal-Tech Hackathon 2021. [[code](https://github.com/wywyWang/Legal-tech-2021)]
+6. [Jun. 2021] **1st Place in Fake-EmoReact Challenge**, SocialNLP @ NAACL 2021 Workshop [[code](https://github.com/wywyWang/Fake-EmoReact-2021)]
+7. [Jan. 2021] **Bronze Medal in Riiid Answer Correctness Prediction Challenge**, AAAI 2021 Workshop [[code](https://github.com/wywyWang/Riiid-Answer-Correctness-Prediction)]
+8. [Jun. 2020] **3rd Place in EmotionGIF Challenge**, SocialNLP @ ACL 2020 Workshop [[report](https://arxiv.org/abs/2007.02259), [code](https://github.com/wywyWang/NLP-2020-EmotionGIF)]
+9. [Dec. 2019] **Excellent Award on Research Project Competition**, National Chiao Tung University
 
 Academic Services
 ======
