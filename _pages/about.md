@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Wei-Yao Wang (王威堯 in Chinese). I am a research scientist at Sony, working on **foundation models**. I received my Ph.D. and BSc degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During his academic journey, Dr. Wang served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. He was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
 
-My research intersts include Large Foundation Models, Natural Language Processing, Sport Science, and Representation Learning, which has been published more than 20 papers in international journals and major peer-reviewed conference proceedings, including multiple best paper awards. I serve on the program committees of international conferences including AAAI, ACL ARR, IJCAI, CIKM, and PAKDD and workshop organizers.
+My research intersts include Large Foundation Models, Natural Language Processing, Sport Science, and Representation Learning, which has been published more than 20 papers in international journals and major peer-reviewed conference proceedings, including multiple best paper awards. I serve on the program committees of international conferences including AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([IT4PSS 23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP 22](https://sites.google.com/view/socialnlp2022/)).
 
 For more information, please visit my [CV](https://drive.google.com/file/d/1YWwWkMy9zy4jGmm8Jni4zRh-iomogupX/view?usp=drive_link).
 
@@ -101,7 +101,7 @@ Competition Awards
 Academic Services
 ======
 **Conference Program Committee**
-AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE (23-now), LT-EDI-ACL 2022 @ ACL'22
+KDD'25, AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE (23-now), LT-EDI-ACL 2022 @ ACL'22
 
 **Organizer**
 ITPSS @ IJCAI’23-24, CoachAI Challenge @ IJCAI’23, SocialNLP 2022 @ WWW'22 and NAACL'22
