@@ -11,7 +11,7 @@ My name is Wei-Yao Wang (王威堯 in Chinese). I am a research scientist at Son
 
 My research intersts include Large Foundation Models, Natural Language Processing, Sport Science, and Representation Learning, which has been published more than 30 papers in international journals and major peer-reviewed conference proceedings, including multiple best paper awards. I serve on the program committees of international conferences including ICLR, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([IT4PSS 23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP 22](https://sites.google.com/view/socialnlp2022/)).
 
-For more information, please visit my [CV](https://drive.google.com/file/d/1YWwWkMy9zy4jGmm8Jni4zRh-iomogupX/view?usp=drive_link).
+For more information, please visit my [CV](https://drive.google.com/file/d/1YWwWkMy9zy4jGmm8Jni4zRh-iomogupX/view?usp=drive_link). I am also open to research collaboration. Please drop me an email if you are interested in.
 
 Education
 ======
@@ -73,19 +73,20 @@ Publications
 
 Honors and Awards
 ======
-1. [Sep. 2023] Sports Science Research Award, *Sport Administration, Ministry of Education*
-2. [Aug. 2023] KDD Student Scholarship, *ACM*
-3. [Aug. 2023] Top Research of AI and Information Technology Scholarship, *Appier*
-4. [May 2023] 21st Y.Z. Hsu Science Paper Award, *Far Eastern Y.Z. Hsu Foundation*
-5. [Feb. 2023] AAAI Student Scholarship, *AAAI*
-6. [Jan. 2023] Google Conference Scholarships, *Google*
-7. [Jan. 2023] AAAI Student Scholarships, *AAAI*
-8. [Mar. 2022] Google Conference Scholarships, *Google*
-9. [Feb. 2022] Best Paper Award, *AAAI DeFactify Workshop*
-10. [Feb. 2022] AAAI Student Scholarships, *AAAI*
-11. [Jan. 2022] Top Research of AI and Information Technology Scholarship, *Appier*
-12. [Aug. 2019] The Yin Zhi Tong Memorial Scholarship, *National Yang Ming Chiao Tung University*
-13. [Jul. 2019] College Student Research Scholarship, *Ministry of Science and Technology*
+1. [Dec. 2024] Dissertation Award, *Taiwanese Association for Artificial Intelligence*
+2. [Sep. 2023] Sports Science Research Award, *Sport Administration, Ministry of Education*
+3. [Aug. 2023] KDD Student Scholarship, *ACM*
+4. [Aug. 2023] Top Research of AI and Information Technology Scholarship, *Appier*
+5. [May 2023] 21st Y.Z. Hsu Science Paper Award, *Far Eastern Y.Z. Hsu Foundation*
+6. [Feb. 2023] AAAI Student Scholarship, *AAAI*
+7. [Jan. 2023] Google Conference Scholarships, *Google*
+8. [Jan. 2023] AAAI Student Scholarships, *AAAI*
+9. [Mar. 2022] Google Conference Scholarships, *Google*
+10. [Feb. 2022] Best Paper Award, *AAAI DeFactify Workshop*
+11. [Feb. 2022] AAAI Student Scholarships, *AAAI*
+12. [Jan. 2022] Top Research of AI and Information Technology Scholarship, *Appier*
+13. [Aug. 2019] The Yin Zhi Tong Memorial Scholarship, *National Yang Ming Chiao Tung University*
+14. [Jul. 2019] College Student Research Scholarship, *Ministry of Science and Technology*
 
 Competition Awards
 ======
