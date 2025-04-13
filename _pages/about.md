@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wei-Yao Wang (王威堯 in Chinese). I am a research scientist at Sony, working on **multimodal foundation models**. I received my Ph.D. and BSc degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During his academic journey, Dr. Wang served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. He was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
+My name is Wei-Yao Wang. I am a research scientist at Sony, working on **X-to-X multimodal foundation models**. I received my Ph.D. and BSc degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During his academic journey, Dr. Wang served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. He was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
 
-My research intersts include Large Foundation Models, Natural Language Processing, Sport Science, and Representation Learning, which has been published more than 30 papers in international journals and major peer-reviewed conference proceedings, including multiple best paper awards. I serve on the program committees of international conferences including ICLR, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([IT4PSS 23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP 22](https://sites.google.com/view/socialnlp2022/)).
+My research intersts include Multimodal Learning; Foundation Models, Natural Language Processing, Sport Science, and Representation Learning, which has been published more than 30+ papers in international journals and major peer-reviewed conference proceedings, including multiple best paper awards. I serve on the program committees of international conferences including ICLR, ICCV, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([IT4PSS 23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP 22](https://sites.google.com/view/socialnlp2022/)).
 
 For more information, please visit my [CV](https://drive.google.com/file/d/1YWwWkMy9zy4jGmm8Jni4zRh-iomogupX/view?usp=drive_link). I am also open to research collaboration. Please drop me an email if you are interested in.
 
@@ -33,7 +33,7 @@ Publications
 ======
 
 ### Journals and Conferences
-1. <ins>Wei-Yao Wang</ins>, Zhao Wang, Helen Suzuki, Yoshiyuki Kobayashi, "“Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs", [[preprint](https://arxiv.org/abs/2503.02597)]
+1. <ins>Wei-Yao Wang</ins>, Zhao Wang, Helen Suzuki, Yoshiyuki Kobayashi, "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs", [[preprint](https://arxiv.org/abs/2503.02597)]
 2. Zhao Wang, Sota Moriyama, <ins>Wei-Yao Wang</ins>, Briti Gangopadhyay, Shingo Takamatsu, "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems", [[preprint](https://arxiv.org/abs/2502.11098)]
 3. Ching Chang, <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, Tien-Fu Chen, "LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters", *ACM Transactions on Intelligent Systems and Technology (TIST), 2025*. [[paper](https://dl.acm.org/doi/10.1145/3719207)]
 4. <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, Wei Wang, Philip Yu, "ShuttleSHAP: A Turn-Based Feature Attribution Approach for Analyzing Forecasting Models in Badminton", *29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) (Special Session: Data Science: Foundations and Applications), 2025*. [[preprint](https://arxiv.org/abs/2312.10942)]
@@ -77,21 +77,23 @@ Publications
 
 Honors and Awards
 ======
-1. [Dec. 2024] Top-10% Outstanding Reviewer, *KDD 2025*
-2. [Dec. 2024] Dissertation Award, *Taiwanese Association for Artificial Intelligence*
-3. [Sep. 2023] Sports Science Research Award, *Sport Administration, Ministry of Education*
-4. [Aug. 2023] KDD Student Scholarship, *ACM*
-5. [Aug. 2023] Top Research of AI and Information Technology Scholarship, *Appier*
-6. [May 2023] 21st Y.Z. Hsu Science Paper Award, *Far Eastern Y.Z. Hsu Foundation*
-7. [Feb. 2023] AAAI Student Scholarship, *AAAI*
-8. [Jan. 2023] Google Conference Scholarships, *Google*
-9. [Jan. 2023] AAAI Student Scholarships, *AAAI*
-10. [Mar. 2022] Google Conference Scholarships, *Google*
-11. [Feb. 2022] Best Paper Award, *AAAI DeFactify Workshop*
-12. [Feb. 2022] AAAI Student Scholarships, *AAAI*
-13. [Jan. 2022] Top Research of AI and Information Technology Scholarship, *Appier*
-14. [Aug. 2019] The Yin Zhi Tong Memorial Scholarship, *National Yang Ming Chiao Tung University*
-15. [Jul. 2019] College Student Research Scholarship, *Ministry of Science and Technology*
+1. [Apr. 2025] Honorary Membership, *The Phi Tau Phi Scholastic Honor Society*
+2. [Mar. 2025] Best Dissertation Award, *Institute of Information & Computing Machinery*
+3. [Dec. 2024] Top-10% Outstanding Reviewer, *KDD 2025*
+4. [Dec. 2024] Best Dissertation Award, *Taiwanese Association for Artificial Intelligence*
+5. [Sep. 2023] Sports Science Research Award, *Sport Administration, Ministry of Education*
+6. [Aug. 2023] KDD Student Scholarship, *ACM*
+7. [Aug. 2023] Top Research of AI and Information Technology Scholarship, *Appier*
+8. [May 2023] 21st Y.Z. Hsu Science Paper Award, *Far Eastern Y.Z. Hsu Foundation*
+9. [Feb. 2023] AAAI Student Scholarship, *AAAI*
+10. [Jan. 2023] Google Conference Scholarships, *Google*
+11. [Jan. 2023] AAAI Student Scholarships, *AAAI*
+12. [Mar. 2022] Google Conference Scholarships, *Google*
+13. [Feb. 2022] Best Paper Award, *AAAI DeFactify Workshop*
+14. [Feb. 2022] AAAI Student Scholarships, *AAAI*
+15. [Jan. 2022] Top Research of AI and Information Technology Scholarship, *Appier*
+16. [Aug. 2019] The Yin Zhi Tong Memorial Scholarship, *National Yang Ming Chiao Tung University*
+17. [Jul. 2019] College Student Research Scholarship, *Ministry of Science and Technology*
 
 Competition Awards
 ======
@@ -108,7 +110,7 @@ Competition Awards
 Academic Services
 ======
 **Conference Program Committee**
-ICLR'25, KDD'25, AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE (23-now), LT-EDI-ACL 2022 @ ACL'22
+ICCV'25, ICLR'25, KDD'25, AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE'23, LT-EDI-ACL 2022 @ ACL'22
 
 **Organizer**
 ITPSS @ IJCAI’23-24, CoachAI Challenge @ IJCAI’23, SocialNLP 2022 @ WWW'22 and NAACL'22
