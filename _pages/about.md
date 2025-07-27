@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wei-Yao Wang. I am a research scientist at Sony, working on **X-to-X multimodal foundation models**. I received my Ph.D. and BSc degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During his academic journey, Dr. Wang served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. He was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
+My name is Wei-Yao Wang. I am a research scientist at Sony, working on **Interactive X-to-X multimodal foundation models from representation learning to generation**. I received my Ph.D. and BSc degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During his academic journey, Dr. Wang served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. He was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
 
-My research intersts include Multimodal Learning; Foundation Models, Natural Language Processing, Sport Science, and Representation Learning, which has been published more than 30+ papers in international journals and major peer-reviewed conference proceedings, including multiple best paper awards. I serve on the program committees of international conferences including ICLR, ICCV, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([IT4PSS 23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP 22](https://sites.google.com/view/socialnlp2022/)).
+My research intersts include Multimodal Learning; Interactive X-to-X Models; Foundation Models; Natural Language Processing; Sport Science; and Representation Learning; which has been published more than 30+ papers in international journals and major peer-reviewed conference proceedings, including multiple best paper awards. I serve on the program committees of international conferences including ICLR, ICCV, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([GenProCC@NeurIPS-25](https://genprocc.github.io/), [IT4PSS@IJCAI23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP@NAACL-22&TheWebConf-22](https://sites.google.com/view/socialnlp2022/)).
 
 For more information, please visit my [CV](https://drive.google.com/file/d/1YWwWkMy9zy4jGmm8Jni4zRh-iomogupX/view?usp=drive_link). I am also open to research collaboration. Please drop me an email if you are interested in.
 
@@ -21,7 +21,7 @@ Education
 
 Research Experience
 ======
-- [Sep. 2024 - Present] Research Scientist, Sony Group Corporation
+- [Sep. 2024 - Present] Research Scientist, [Creative AI Lab](https://sony.github.io/creativeai/), Sony Group Corporation
 - [Jul. 2020 - Mar. 2024] Ph.D. Researcher, [Advanced Database System Laboratory](https://lab-adsl-website.vercel.app/), NYCU
 - [Mar. 2023 - Mar. 2024] Visiting Researcher, [Scalable Analytics Institute](https://scai.cs.ucla.edu/), UCLA
 - [Sep. 2023 - Dec. 2023] Research Intern, Microsoft ([Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/))
@@ -35,6 +35,8 @@ Publications
 ### Journals and Conferences
 1. <ins>Wei-Yao Wang</ins>, Zhao Wang, Helen Suzuki, Yoshiyuki Kobayashi, "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs", [[preprint](https://arxiv.org/abs/2503.02597)]
 2. Zhao Wang, Sota Moriyama, <ins>Wei-Yao Wang</ins>, Briti Gangopadhyay, Shingo Takamatsu, "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems", [[preprint](https://arxiv.org/abs/2502.11098)]
+3. <ins>Wei-Yao Wang</ins>, Takashi Shibuya, Vali Lalioti, Wei Wang, Shusuke Takahashi, Yuki Mitsufuji, “GenProCC: 1st Workshop on Generative and Protective AI for Content Creation”, NeurIPS 2025, [[website](https://genprocc.github.io/)]
+3. Shang-Hsuan Chiang, Tsan-Tsung Yang, Kuang-Da Wang, <ins>Wei-Yao Wang</ins>, An-Zi Yen, Wen-Chih Peng, "Tree-of-Report: Table-to-Text Generation for Sports Game Reports with Tree-Structured Prompting", *ACL SRW 2025 (Oral, oral rate: 8%)*
 3. Ching Chang, <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, Tien-Fu Chen, "LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters", *ACM Transactions on Intelligent Systems and Technology (TIST), 2025*. [[paper](https://dl.acm.org/doi/10.1145/3719207)]
 4. <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, Wei Wang, Philip Yu, "ShuttleSHAP: A Turn-Based Feature Attribution Approach for Analyzing Forecasting Models in Badminton", *29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) (Special Session: Data Science: Foundations and Applications), 2025*. [[preprint](https://arxiv.org/abs/2312.10942)]
 5. Hong-Wei Wu, <ins>Wei-Yao Wang</ins>, Kuang-Da Wang, Wen-Chih Peng, "APAR: Modeling Irregular Target Functions in Tabular Regression via Arithmetic-Aware Pre-Training and Adaptive-Regularized Fine-Tuning", *39th AAAI Conference on Artificial Intelligence (AAAI), 2025 (acceptance rate: 23.4%)*. [[paper](https://arxiv.org/abs/2412.10941v1)]
@@ -113,7 +115,7 @@ Academic Services
 ICCV'25, ICLR'25, KDD'25, AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE'23, LT-EDI-ACL 2022 @ ACL'22
 
 **Organizer**
-ITPSS @ IJCAI’23-24, CoachAI Challenge @ IJCAI’23, SocialNLP 2022 @ WWW'22 and NAACL'22
+GenProCC @ NeurIPS'25, ITPSS @ IJCAI'23-24, CoachAI Challenge @ IJCAI'23, SocialNLP @ TheWebConf'22 and NAACL'22
 
 **Student Volunteer**
 IJCAI'23, KDD'23
