@@ -33,15 +33,17 @@ Publications
 ======
 
 ### Journals and Conferences
-1. Christian Simon, Masato Ishii, <ins>Wei-Yao Wang</ins>, Koichi Saito, Akio Hayakawa, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, ``Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models'', \href{}{[TBD]}.
-2. Kuang-Da Wang, Zhao Wang, Yotaro Shimose, <ins>Wei-Yao Wang</ins>, Shingo Takamatsu, "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation", [[preprint](https://arxiv.org/abs/2510.15306v1)].
-3. <ins>Wei-Yao Wang</ins>, Kazuya Tateishi, Qiyu Wu, Shusuke Takahashi, Yuki Mitsufuji, "VIRTUE: Visual-Interactive Text-Image Universal Embedder", [[preprint](https://arxiv.org/abs/2510.00523)].
-3. Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, <ins>Wei-Yao Wang</ins>, Hiromi Wakaki, Yuki Mitsufuji, "RMCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval", [[preprint](https://arxiv.org/abs/2510.15543)].
-3. Masakazu Yoshimura, Teruaki Hayashi, Yuki Hoshino, <ins>Wei-Yao Wang</ins>, Takeshi Ohashi, "SF-Mamba: Rethinking State Space Model for Vision", [TBD]().
-4. Yen-Che Chien, Kuang-Da Wang, <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, "NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks", under review, [[preprint](https://arxiv.org/abs/2509.00446)].
+1. Kuang‑Da Wang, Zhao Wang, <ins>Wei-Yao Wang</ins>, Yotaro Shimose, Jaechang Kim, Shingo Takamatsu, "Agentic Model Predictive Questioning Control in Visual Design", [[TBD]()].
+2. Christian Simon, Masato Ishii, <ins>Wei-Yao Wang</ins>, Koichi Saito, Akio Hayakawa, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, "Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models", [[TBD]()].
+3. Kuang-Da Wang, Zhao Wang, Yotaro Shimose, <ins>Wei-Yao Wang</ins>, Shingo Takamatsu, "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation", [[preprint](https://arxiv.org/abs/2510.15306v1)].
+3. Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, <ins>Wei-Yao Wang</ins>, Hiromi Wakaki, Yuki Mitsufuji, "MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval", [[preprint](https://arxiv.org/abs/2510.15543)].
+3. Masakazu Yoshimura, Teruaki Hayashi, Yuki Hoshino, <ins>Wei-Yao Wang</ins>, Takeshi Ohashi, "SF-Mamba: Rethinking State Space Model for Vision", [[TBD]]().
+4. Yen-Che Chien, Kuang-Da Wang, <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, "NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks", [[preprint](https://arxiv.org/abs/2509.00446)].
 5. <ins>Wei-Yao Wang</ins>, Zhao Wang, Helen Suzuki, Yoshiyuki Kobayashi, "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs", [[preprint](https://arxiv.org/abs/2503.02597)]
 5. Zhao Wang, Sota Moriyama, <ins>Wei-Yao Wang</ins>, Briti Gangopadhyay, Shingo Takamatsu, "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems", [[preprint](https://arxiv.org/abs/2502.11098)]
-3. <ins>Wei-Yao Wang</ins>, Takashi Shibuya, Vali Lalioti, Wei Wang, Shusuke Takahashi, Yuki Mitsufuji, “GenProCC: 1st Workshop on Generative and Protective AI for Content Creation”, NeurIPS 2025, [[website](https://genprocc.github.io/)]
+3. <ins>Wei-Yao Wang</ins>, Kazuya Tateishi, Qiyu Wu, Shusuke Takahashi, Yuki Mitsufuji, "VIRTUE: Visual-Interactive Text-Image Universal Embedder", ICLR 2026, [[preprint](https://arxiv.org/abs/2510.00523)].
+3. <ins>Wei-Yao Wang</ins>, Takashi Shibuya, Vali Lalioti, Wei Wang, Shusuke Takahashi, Yuki Mitsufuji, "GenProCC: 1st Workshop on Generative and Protective AI for Content Creation", NeurIPS 2025, [[website](https://genprocc.github.io/)]
+5. Yung‑Chien Wang, Kuang‑Da Wang, <ins>Wei-Yao Wang</ins>, Wen‑Chih Peng, "Adapting to Evolving Data: Test‑Time Expert Aggregation for Imbalanced Tabular Regression", WSDM 2026, [[preprint](https://arxiv.org/abs/2506.07033)].
 3. Shang-Hsuan Chiang, Tsan-Tsung Yang, Kuang-Da Wang, <ins>Wei-Yao Wang</ins>, An-Zi Yen, Wen-Chih Peng, "Tree-of-Report: Table-to-Text Generation for Sports Game Reports with Tree-Structured Prompting", *ACL SRW 2025 (Oral, oral rate: 8%)*
 3. Ching Chang, <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, Tien-Fu Chen, "LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters", *ACM Transactions on Intelligent Systems and Technology (TIST), 2025*. [[paper](https://dl.acm.org/doi/10.1145/3719207)]
 4. <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, Wei Wang, Philip Yu, "ShuttleSHAP: A Turn-Based Feature Attribution Approach for Analyzing Forecasting Models in Badminton", *29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) (Special Session: Data Science: Foundations and Applications), 2025*. [[preprint](https://arxiv.org/abs/2312.10942)]
@@ -86,7 +88,7 @@ Publications
 Academic Services
 ======
 **Conference (Senior) Program Committee:**
-ICCV'25, ICLR (25-now), KDD'25, AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE'23, LT-EDI-ACL 2022 @ ACL'22
+ICML'26, CVPR'26, ICCV'25, ICLR (25-now), KDD (25-now), AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE'23, LT-EDI-ACL 2022 @ ACL'22
 
 **Organizer:**
 GenProCC @ NeurIPS'25, ITPSS @ IJCAI'23-24, CoachAI Challenge @ IJCAI'23, SocialNLP @ TheWebConf'22 and NAACL'22
