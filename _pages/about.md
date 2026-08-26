@@ -7,17 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wei-Yao Wang. I am a research scientist in the **[Creative AI Lab](https://sony.github.io/creativeai/)** at Sony, working on **Interactive omnimodal foundation models from LLM alignment to generation and LLM agents for content creation**. I received my Ph.D. and BSc degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During my academic journey, I served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. I was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
+My name is Wei-Yao Wang. I am a research scientist in the **[Creative AI Lab](https://sony.github.io/creativeai/)** at Sony, working on **interactive multimodal models for content creation, spanning omni‑modal LLMs/embedders, video generation/editing, and agentic understanding**. I received my Ph.D. and BS degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During my academic journey, I served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. I was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
 
 My research intersts include Interactive Omnimodal Models; LLM Agents; LLM Alignment; Foundation Models; Natural Language Processing; Sport Science; and Representation Learning; which has been published more than 40+ papers in international journals and major peer-reviewed conference proceedings (e.g., ICLR, NeurPS, ICML, CVPR, KDD, AAAI, ACL, EMNLP), including multiple best paper awards. I serve on the program committees of international conferences including ICLR, ICCV, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([GenProCC@NeurIPS-25](https://genprocc.github.io/), [IT4PSS@IJCAI23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP@NAACL-22&TheWebConf-22](https://sites.google.com/view/socialnlp2022/)).
 
 For more information, please visit my [CV](https://drive.google.com/file/d/1YWwWkMy9zy4jGmm8Jni4zRh-iomogupX/view?usp=drive_link). I am also open to research collaboration. Please drop me an email if you are interested in.
-
-Education
-======
-- [Sep. 2020 - Mar. 2024] Ph.D. at Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University (advisor: [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng))
-- [Mar. 2023 - Mar. 2024] Visiting Researcher in Scalable Analytics Institute, University of California, Los Angeles (advisor: [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/))
-- [Sep. 2016 - Jun. 2020] B.S. in Department of Computer Science, National Chiao Tung University
 
 Research Experience
 ======
@@ -29,15 +23,22 @@ Research Experience
 - [Jun. 2018 - Jun. 2022] Project Lead & Research Scientist, Precision Sport Science - Coach AI in Badminton ([project link](https://github.com/wywyWang/CoachAI-Projects))
 - [Jul. 2018 - Jun. 2020] Database Administrator, NCTU CS Curriculum Assistant
 
+Education
+======
+- [Sep. 2020 - Mar. 2024] Ph.D. at Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University (advisor: [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng))
+- [Mar. 2023 - Mar. 2024] Visiting Researcher in Scalable Analytics Institute, University of California, Los Angeles (advisor: [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/))
+- [Sep. 2016 - Jun. 2020] B.S. in Department of Computer Science, National Chiao Tung University
+
 Publications
 ======
 
 ### Journals and Conferences
-1. <ins>Wei-Yao Wang</ins>, Kazuya Tateishi, Shuyang Cui, Christian Simon, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, "Omni-Interactive Universal Embedder". [[TBD]()].
-1. Kuang-Da Wang, Zhao Wang, Yotaro Shimose, <ins>Wei-Yao Wang</ins>, Shingo Takamatsu, "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation". [[preprint](https://arxiv.org/abs/2510.15306v1)].
-2. Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, <ins>Wei-Yao Wang</ins>, Hiromi Wakaki, Yuki Mitsufuji, "MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval". [[preprint](https://arxiv.org/abs/2510.15543)].
-3. Masakazu Yoshimura, Teruaki Hayashi, Yuki Hoshino, <ins>Wei-Yao Wang</ins>, Takeshi Ohashi, "SF-Mamba: Rethinking State Space Model for Vision". **ICML 2026**. [[paper]](https://arxiv.org/abs/2603.16423).
-4. Kuang‑Da Wang, Zhao Wang, <ins>Wei-Yao Wang</ins>, Yotaro Shimose, Jaechang Kim, Shingo Takamatsu, "Agentic Model Predictive Questioning Control in Visual Design". **ICML 2026**. [[TBD]()].
+1. Christian Simon, <ins>Wei-Yao Wang</ins>, Dongseok Shim, Kazuki Shimada, Masato Ishii, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, "Neural Audio‑Visual Chords: A Multimodal Framework for Temporally and Spatially Aligned Sound Generation from Visual Cues". [[TBD]()].
+2. <ins>Wei-Yao Wang</ins>, Kazuya Tateishi, Shuyang Cui, Christian Simon, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, "Omni-Interactive Universal Embedder". [[TBD]()].
+3. Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, <ins>Wei-Yao Wang</ins>, Hiromi Wakaki, Yuki Mitsufuji, "MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval" **EMNLP 2026 Main**. [[preprint](https://arxiv.org/abs/2510.15543)].
+3. Kuang-Da Wang, Zhao Wang, Yotaro Shimose, <ins>Wei-Yao Wang</ins>, Shingo Takamatsu, "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation". **KDD 2026**. [[preprint](https://arxiv.org/abs/2510.15306v1)].
+4. Masakazu Yoshimura, Teruaki Hayashi, Yuki Hoshino, <ins>Wei-Yao Wang</ins>, Takeshi Ohashi, "SF-Mamba: Rethinking State Space Model for Vision". **ICML 2026**. [[paper]](https://arxiv.org/abs/2603.16423).
+5. Kuang‑Da Wang, Zhao Wang, <ins>Wei-Yao Wang</ins>, Yotaro Shimose, Jaechang Kim, Shingo Takamatsu, "Agentic Model Predictive Questioning Control in Visual Design". **ICML 2026**. [[TBD]()].
 5. <ins>Wei-Yao Wang</ins>, Zhao Wang, Helen Suzuki, Yoshiyuki Kobayashi, "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs". **ICML 2026**. [[paper](https://arxiv.org/abs/2503.02597)].
 6. Yen-Che Chien, Kuang-Da Wang, <ins>Wei-Yao Wang</ins>, Wen-Chih Peng, "NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks". **ACL 2026 Findings**. [[paper](https://arxiv.org/abs/2509.00446)].
 5. Zhao Wang, Sota Moriyama, <ins>Wei-Yao Wang</ins>, Briti Gangopadhyay, Shingo Takamatsu, "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems". **IEEE Transactions on Artificial Intelligence 2026**. [[preprint](https://arxiv.org/abs/2502.11098)].
