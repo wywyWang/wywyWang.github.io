@@ -13,6 +13,11 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  (function () {
+    var t = localStorage.getItem('theme');
+    if (!t) { t = 'dark'; localStorage.setItem('theme', 'dark'); }
+    if (t === 'dark') document.documentElement.classList.add('dark');
+  })();
 </script>
 
 <!-- For all browsers -->

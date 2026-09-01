@@ -1,0 +1,214 @@
+.paper {
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  border-radius: 8px;
+  padding: 0.5em 2.2em 0.5em 0.8em;
+  margin: 0.45em 0;
+  line-height: 1.45;
+  transition: border-color 0.15s ease;
+}
+
+.paper:hover {
+  border-color: rgba(27, 78, 155, 0.55);
+}
+
+details.paper summary {
+  cursor: pointer;
+  position: relative;
+  list-style: none;
+}
+
+details.paper summary::-webkit-details-marker {
+  display: none;
+}
+
+details.paper summary::after {
+  content: "";
+  position: absolute;
+  right: -1.5em;
+  top: 0.45em;
+  width: 0.45em;
+  height: 0.45em;
+  border-right: 2px solid rgba(128, 128, 128, 0.7);
+  border-bottom: 2px solid rgba(128, 128, 128, 0.7);
+  transform: rotate(45deg);
+  transition: transform 0.2s ease;
+}
+
+details.paper[open] summary::after {
+  transform: rotate(225deg);
+  top: 0.6em;
+}
+
+details.paper:not(:has(.paper-body)) summary {
+  cursor: default;
+}
+
+details.paper:not(:has(.paper-body)) summary::after {
+  display: none;
+}
+
+details.paper summary:focus-visible {
+  outline: 2px solid rgba(27, 78, 155, 0.6);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+details.paper summary > a,
+.paper-title {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+details.paper summary > a:hover {
+  text-decoration: underline;
+}
+
+.paper-authors {
+  display: block;
+  margin-top: 0.15em;
+  font-size: 0.85em;
+  opacity: 0.75;
+}
+
+details.paper:not([open]) .paper-authors {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.paper-links {
+  display: block;
+  margin-top: 0.3em;
+}
+
+a.paper-link-btn {
+  display: inline-block;
+  padding: 0.05em 0.6em;
+  margin: 0.1em 0.15em 0.1em 0;
+  border-radius: 999px;
+  border: 1px solid rgba(128, 128, 128, 0.4);
+  background: rgba(128, 128, 128, 0.12);
+  color: inherit !important;
+  font-size: 0.78em;
+  font-weight: 600;
+  text-decoration: none !important;
+  vertical-align: middle;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+a.paper-link-btn:hover {
+  background: rgba(27, 78, 155, 0.15);
+  border-color: rgba(27, 78, 155, 0.6);
+}
+
+.paper-badge,
+.paper-award {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.12em 0.6em;
+  border-radius: 999px;
+  margin-right: 0.3em;
+  vertical-align: 0.14em;
+  white-space: nowrap;
+}
+
+.paper-badge {
+  background: rgba(27, 78, 155, 0.18);
+  border: 1px solid rgba(27, 78, 155, 0.4);
+  color: inherit;
+}
+
+.paper-award {
+  background: rgba(196, 146, 48, 0.18);
+  border: 1px solid rgba(196, 146, 48, 0.5);
+  color: inherit;
+}
+
+.paper-body {
+  margin-top: 0.55em;
+}
+
+details.paper[open] .paper-body {
+  animation: paperfade 0.18s ease-out;
+}
+
+@keyframes paperfade {
+  from { opacity: 0; transform: translateY(-2px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.paper-desc {
+  font-size: 0.9em;
+  opacity: 0.85;
+  margin: 0 0 0.3em;
+}
+
+.paper-fig {
+  background-color: white;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 0.55em 0;
+}
+
+.paper-fig img {
+  background-color: white;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.paper-hint {
+  font-size: 0.85em;
+  opacity: 0.6;
+  margin-bottom: 0.4em;
+}
+
+.paper-tabs {
+  margin: 0 0 0.5em;
+  font-size: 0.85em;
+}
+
+.paper-tab {
+  display: inline-block;
+  padding: 0.15em 0.75em;
+  margin-right: 0.25em;
+  border-radius: 999px;
+  border: 1px solid rgba(128, 128, 128, 0.4);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.paper-tab:hover {
+  border-color: rgba(27, 78, 155, 0.6);
+}
+
+.paper-tab.is-active {
+  background: rgba(27, 78, 155, 0.2);
+  border-color: rgba(27, 78, 155, 0.55);
+  font-weight: 600;
+}
+
+a.resume-btn {
+  display: inline-block;
+  padding: 0.3em 0.9em;
+  border-radius: 999px;
+  border: 1px solid rgba(27, 78, 155, 0.5);
+  background: rgba(27, 78, 155, 0.18);
+  color: inherit !important;
+  font-weight: 600;
+  font-size: 0.9em;
+  text-decoration: none !important;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+a.resume-btn:hover {
+  background: rgba(27, 78, 155, 0.3);
+  border-color: rgba(123, 163, 217, 0.7);
+}

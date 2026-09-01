@@ -1,0 +1,15 @@
+<details class="paper"{% unless include.selected == false %} data-selected{% endunless %}>
+  <summary>
+    <span class="paper-badge">{{ include.badge }}</span>
+    {% if include.url %}<a href="{{ include.url }}">{{ include.title }}</a>{% else %}<span class="paper-title">{{ include.title }}</span>{% endif %}
+    {% if include.award %}<span class="paper-award">{{ include.award }}</span>{% endif %}
+    <span class="paper-authors">{{ include.authors }}</span>
+    {% if include.links %}<span class="paper-links">{{ include.links }}</span>{% endif %}
+  </summary>
+  {% if include.fig or include.desc %}
+  <div class="paper-body">
+    {% if include.fig %}<div class="paper-fig"><img src="{{ include.fig }}" alt="{{ include.title }}" loading="lazy"></div>{% endif %}
+    {% if include.desc %}<p class="paper-desc">{{ include.desc }}</p>{% endif %}
+  </div>
+  {% endif %}
+</details>

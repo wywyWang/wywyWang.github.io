@@ -1,19 +1,21 @@
-# main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "About"
+    url: "/#about-me"
 
-  # - title: "Competitions"
-  #   url: /competitions/    
+  - title: "Experience"
+    url: "/#research-experience"
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Services"
+    url: "/#academic-services"
+
+  - title: "Honors"
+    url: "/#honors-and-awards"
+
+  - title: "Competitions"
+    url: "/#competition-awards"

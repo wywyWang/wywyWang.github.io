@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Wei-Yao Wang"
 title_separator          : "-"
 name                     : &name "Wei-Yao Wang"
-description              : &description "personal description"
+description              : &description "Omnimodal Models • LLM Agents • Alignment • Foundation Models"
 url                      : https://wywyWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wywyWang/wywyWang.github.io"
@@ -28,7 +28,8 @@ author:
   location         : 
   employer         : "Sony"
   uri              : # URL
-  email            : "sf1638.cs05@nctu.edu.tw" 
+  email            : "sf1638.cs05@nctu.edu.tw"
+  resume           : "https://drive.google.com/file/d/1YWwWkMy9zy4jGmm8Jni4zRh-iomogupX/view?usp=drive_link" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

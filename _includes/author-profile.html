@@ -21,8 +21,10 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+      {% if site.description %}
+        <li class="author__keywords">{{ site.description }}</li>
+      {% endif %}
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
@@ -35,6 +37,9 @@
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% endif %}
+      {% if author.resume %}
+        <li><a href="{{ author.resume }}"><i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>CV</a></li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
