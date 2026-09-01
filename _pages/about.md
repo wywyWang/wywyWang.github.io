@@ -337,165 +337,165 @@ I am also open to research collaboration. Please drop me an email if you are int
 <div class="timeline">
   <div class="timeline-list">
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Gold Reviewer</div>
-        <p class="tl-role">ICML 2026</p>
-        <div class="tl-meta"><span class="tl-when">May 2026</span></div>
+        <span class="tl-when">May 2026</span>
+        <span class="tl-org">Gold Reviewer</span>
+        <span class="tl-role">ICML 2026</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Honorary Membership</div>
-        <p class="tl-role">The Phi Tau Phi Scholastic Honor Society</p>
-        <div class="tl-meta"><span class="tl-when">Apr. 2025</span></div>
+        <span class="tl-when">Apr. 2025</span>
+        <span class="tl-org">Honorary Membership</span>
+        <span class="tl-role">The Phi Tau Phi Scholastic Honor Society</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Best Dissertation Award</div>
-        <p class="tl-role">Institute of Information &amp; Computing Machinery</p>
-        <div class="tl-meta"><span class="tl-when">Mar. 2025</span></div>
+        <span class="tl-when">Mar. 2025</span>
+        <span class="tl-org">Best Dissertation Award</span>
+        <span class="tl-role">Institute of Information &amp; Computing Machinery</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Top-10% Outstanding Reviewer</div>
-        <p class="tl-role">KDD 2025</p>
-        <div class="tl-meta"><span class="tl-when">Dec. 2024</span></div>
+        <span class="tl-when">Dec. 2024</span>
+        <span class="tl-org">Top-10% Outstanding Reviewer</span>
+        <span class="tl-role">KDD 2025</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Best Dissertation Award</div>
-        <p class="tl-role">Taiwanese Association for Artificial Intelligence</p>
-        <div class="tl-meta"><span class="tl-when">Dec. 2024</span></div>
+        <span class="tl-when">Dec. 2024</span>
+        <span class="tl-org">Best Dissertation Award</span>
+        <span class="tl-role">Taiwanese Association for Artificial Intelligence</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Sports Science Research Award</div>
-        <p class="tl-role">Sport Administration, Ministry of Education</p>
-        <div class="tl-meta"><span class="tl-when">Sep. 2023</span></div>
+        <span class="tl-when">Sep. 2023</span>
+        <span class="tl-org">Sports Science Research Award</span>
+        <span class="tl-role">Sport Administration, Ministry of Education</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">KDD Student Scholarship</div>
-        <p class="tl-role">ACM</p>
-        <div class="tl-meta"><span class="tl-when">Aug. 2023</span></div>
+        <span class="tl-when">Aug. 2023</span>
+        <span class="tl-org">KDD Student Scholarship</span>
+        <span class="tl-role">ACM</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Top Research of AI and Information Technology Scholarship</div>
-        <p class="tl-role">Appier</p>
-        <div class="tl-meta"><span class="tl-when">Aug. 2023</span></div>
+        <span class="tl-when">Aug. 2023</span>
+        <span class="tl-org">Top Research of AI and Information Technology Scholarship</span>
+        <span class="tl-role">Appier</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">21st Y.Z. Hsu Science Paper Award</div>
-        <p class="tl-role">Far Eastern Y.Z. Hsu Foundation</p>
-        <div class="tl-meta"><span class="tl-when">May 2023</span></div>
+        <span class="tl-when">May 2023</span>
+        <span class="tl-org">21st Y.Z. Hsu Science Paper Award</span>
+        <span class="tl-role">Far Eastern Y.Z. Hsu Foundation</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">AAAI Student Scholarship</div>
-        <p class="tl-role">AAAI</p>
-        <div class="tl-meta"><span class="tl-when">Feb. 2023</span></div>
+        <span class="tl-when">Feb. 2023</span>
+        <span class="tl-org">AAAI Student Scholarship</span>
+        <span class="tl-role">AAAI</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Google Conference Scholarships</div>
-        <p class="tl-role">Google</p>
-        <div class="tl-meta"><span class="tl-when">Jan. 2023</span></div>
+        <span class="tl-when">Jan. 2023</span>
+        <span class="tl-org">Google Conference Scholarships</span>
+        <span class="tl-role">Google</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">AAAI Student Scholarships</div>
-        <p class="tl-role">AAAI</p>
-        <div class="tl-meta"><span class="tl-when">Jan. 2023</span></div>
+        <span class="tl-when">Jan. 2023</span>
+        <span class="tl-org">AAAI Student Scholarships</span>
+        <span class="tl-role">AAAI</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Google Conference Scholarships</div>
-        <p class="tl-role">Google</p>
-        <div class="tl-meta"><span class="tl-when">Mar. 2022</span></div>
+        <span class="tl-when">Mar. 2022</span>
+        <span class="tl-org">Google Conference Scholarships</span>
+        <span class="tl-role">Google</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Best Paper Award</div>
-        <p class="tl-role">AAAI DeFactify Workshop</p>
-        <div class="tl-meta"><span class="tl-when">Feb. 2022</span></div>
+        <span class="tl-when">Feb. 2022</span>
+        <span class="tl-org">Best Paper Award</span>
+        <span class="tl-role">AAAI DeFactify Workshop</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">AAAI Student Scholarships</div>
-        <p class="tl-role">AAAI</p>
-        <div class="tl-meta"><span class="tl-when">Feb. 2022</span></div>
+        <span class="tl-when">Feb. 2022</span>
+        <span class="tl-org">AAAI Student Scholarships</span>
+        <span class="tl-role">AAAI</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">Top Research of AI and Information Technology Scholarship</div>
-        <p class="tl-role">Appier</p>
-        <div class="tl-meta"><span class="tl-when">Jan. 2022</span></div>
+        <span class="tl-when">Jan. 2022</span>
+        <span class="tl-org">Top Research of AI and Information Technology Scholarship</span>
+        <span class="tl-role">Appier</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">The Yin Zhi Tong Memorial Scholarship</div>
-        <p class="tl-role">National Yang Ming Chiao Tung University</p>
-        <div class="tl-meta"><span class="tl-when">Aug. 2019</span></div>
+        <span class="tl-when">Aug. 2019</span>
+        <span class="tl-org">The Yin Zhi Tong Memorial Scholarship</span>
+        <span class="tl-role">National Yang Ming Chiao Tung University</span>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor">
+    <div class="tl-card tl-card--honor tl-card--one">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <div class="tl-org">College Student Research Scholarship</div>
-        <p class="tl-role">Ministry of Science and Technology</p>
-        <div class="tl-meta"><span class="tl-when">Jul. 2019</span></div>
+        <span class="tl-when">Jul. 2019</span>
+        <span class="tl-org">College Student Research Scholarship</span>
+        <span class="tl-role">Ministry of Science and Technology</span>
       </div>
     </div>
 
@@ -504,54 +504,142 @@ I am also open to research collaboration. Please drop me an email if you are int
 
 # Competition Awards
 
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Dec. 2022</span><span class="paper-award">1st Place</span></div>
-  <span class="cv-what">Factify 2.0 Challenge</span>
-  <span class="cv-where">De-Factify @ AAAI 2023 Workshop</span>
-  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wwweiwei/Pre-CoFactv2-AAAI-2023">code</a></span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Oct. 2022</span><span class="paper-award">4th Place</span></div>
-  <span class="cv-what">Rounded Evaluation of Recommender Systems</span>
-  <span class="cv-where">EvalRS @ CIKM'22 Workshop</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Feb. 2022</span><span class="paper-award">2nd Place</span></div>
-  <span class="cv-what">Detecting Signs of Depression from Social Media Text</span>
-  <span class="cv-where">LT-EDI @ ACL 2022 Workshop</span>
-  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Depression-Detection-LT-EDI-ACL-2022">code</a></span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Nov. 2021</span><span class="paper-award">5th Place</span><span class="paper-award">Best Paper</span></div>
-  <span class="cv-what">Factify Challenge</span>
-  <span class="cv-where">De-Factify @ AAAI 2022 Workshop</span>
-  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Multi-Modal-Fact-Verification-2021">code</a></span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Sep. 2021</span><span class="paper-award">3rd Place</span><span class="paper-award">National Judges Award</span></div>
-  <span class="cv-what">Legal-Tech Hackathon 2021</span>
-  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Legal-tech-2021">code</a></span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Jun. 2021</span><span class="paper-award">1st Place</span></div>
-  <span class="cv-what">Fake-EmoReact Challenge</span>
-  <span class="cv-where">SocialNLP @ NAACL 2021 Workshop</span>
-  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Fake-EmoReact-2021">code</a></span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Jan. 2021</span><span class="paper-award">Bronze Medal</span></div>
-  <span class="cv-what">Riiid Answer Correctness Prediction Challenge</span>
-  <span class="cv-where">AAAI 2021 Workshop</span>
-  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Riiid-Answer-Correctness-Prediction">code</a></span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Jun. 2020</span><span class="paper-award">3rd Place</span></div>
-  <span class="cv-what">EmotionGIF Challenge</span>
-  <span class="cv-where">SocialNLP @ ACL 2020 Workshop</span>
-  <span class="paper-links"><a class="paper-link-btn" href="https://arxiv.org/abs/2007.02259">report</a> <a class="paper-link-btn" href="https://github.com/wywyWang/NLP-2020-EmotionGIF">code</a></span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Dec. 2019</span><span class="paper-award">Excellent Award</span></div>
-  <span class="cv-what">Research Project Competition</span>
-  <span class="cv-where">National Chiao Tung University</span>
+<div class="timeline">
+  <div class="timeline-list">
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">1st Place</span>
+          <span class="tl-org">Factify 2.0 Challenge</span>
+          <span class="tl-when">Dec. 2022</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">De-Factify @ AAAI 2023 Workshop</span>
+          <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wwweiwei/Pre-CoFactv2-AAAI-2023">code</a></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">4th Place</span>
+          <span class="tl-org">Rounded Evaluation of Recommender Systems</span>
+          <span class="tl-when">Oct. 2022</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">EvalRS @ CIKM'22 Workshop</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">2nd Place</span>
+          <span class="tl-org">Detecting Signs of Depression from Social Media Text</span>
+          <span class="tl-when">Feb. 2022</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">LT-EDI @ ACL 2022 Workshop</span>
+          <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Depression-Detection-LT-EDI-ACL-2022">code</a></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">5th Place</span>
+          <span class="paper-award">Best Paper</span>
+          <span class="tl-org">Factify Challenge</span>
+          <span class="tl-when">Nov. 2021</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">De-Factify @ AAAI 2022 Workshop</span>
+          <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Multi-Modal-Fact-Verification-2021">code</a></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">3rd Place</span>
+          <span class="paper-award">National Judges Award</span>
+          <span class="tl-org">Legal-Tech Hackathon 2021</span>
+          <span class="tl-when">Sep. 2021</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Legal-tech-2021">code</a></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">1st Place</span>
+          <span class="tl-org">Fake-EmoReact Challenge</span>
+          <span class="tl-when">Jun. 2021</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">SocialNLP @ NAACL 2021 Workshop</span>
+          <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Fake-EmoReact-2021">code</a></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">Bronze Medal</span>
+          <span class="tl-org">Riiid Answer Correctness Prediction Challenge</span>
+          <span class="tl-when">Jan. 2021</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">AAAI 2021 Workshop</span>
+          <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Riiid-Answer-Correctness-Prediction">code</a></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">3rd Place</span>
+          <span class="tl-org">EmotionGIF Challenge</span>
+          <span class="tl-when">Jun. 2020</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">SocialNLP @ ACL 2020 Workshop</span>
+          <span class="paper-links"><a class="paper-link-btn" href="https://arxiv.org/abs/2007.02259">report</a> <a class="paper-link-btn" href="https://github.com/wywyWang/NLP-2020-EmotionGIF">code</a></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
+          <span class="paper-award">Excellent Award</span>
+          <span class="tl-org">Research Project Competition</span>
+          <span class="tl-when">Dec. 2019</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">National Chiao Tung University</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
 </div>

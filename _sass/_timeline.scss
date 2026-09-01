@@ -192,3 +192,83 @@
   text-transform: uppercase;
   opacity: 0.55;
 }
+
+.tl-card--one {
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+
+.tl-card--one .tl-icon {
+  margin-top: 0;
+}
+
+.tl-card--one .tl-body {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.5em;
+  row-gap: 0.1em;
+  padding: 0.4em 0.8em 0.42em;
+}
+
+.tl-card--one .tl-when {
+  margin-left: 0;
+  flex: 0 0 6.4em;
+}
+
+.tl-card--one .tl-role {
+  margin: 0;
+}
+
+.tl-card--one .tl-role::before {
+  content: "· ";
+  opacity: 0.45;
+}
+
+.tl-card--two {
+  margin-bottom: 0.6em;
+}
+
+.tl-card--two .tl-icon {
+  margin-top: 0.4em;
+}
+
+.tl-card--two .tl-body {
+  padding: 0.5em 0.85em 0.55em;
+}
+
+.tl-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25em 0.5em;
+}
+
+.tl-line .tl-when {
+  margin-left: auto;
+}
+
+.tl-line .tl-role {
+  margin: 0;
+}
+
+.tl-line--sub {
+  margin-top: 0.12em;
+}
+
+.tl-line--sub .tl-role {
+  font-size: 0.86em;
+  color: #6f6f6f;
+}
+
+:root.dark .tl-line--sub .tl-role {
+  color: #9a9a9a;
+}
+
+.tl-line--sub .paper-links {
+  margin: 0 0 0 auto;
+}
+
+.tl-line .paper-award {
+  margin-right: 0;
+}
