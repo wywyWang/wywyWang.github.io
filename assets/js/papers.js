@@ -7,7 +7,13 @@
   function apply(filter) {
     cards.forEach(function (card) {
       var selected = card.hasAttribute('data-selected');
-      card.hidden = filter === 'selected' && !selected;
+      var kind = card.getAttribute('data-kind');
+      var show = false;
+      if (filter === 'selected') show = selected;
+      else if (filter === 'mentor') show = card.hasAttribute('data-mentored');
+      else if (filter === 'conference') show = kind === 'conference';
+      else if (filter === 'workshop') show = kind === 'workshop';
+      card.hidden = !show;
     });
   }
 
