@@ -19,10 +19,7 @@ I am also open to research collaboration. Please drop me an email if you are int
 <span class="anchor" id="research-experience"></span>
 <span class="anchor" id="education"></span>
 
-<span class="anchor" id="research-experience"></span>
-<span class="anchor" id="education"></span>
-
-# Experience & Education
+# Research Experience & Education
 
 <div class="timeline">
   <div class="timeline-legend">
@@ -34,11 +31,12 @@ I am also open to research collaboration. Please drop me an email if you are int
     <div class="tl-card tl-card--exp">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-briefcase"></i></div>
       <div class="tl-body">
-        <div class="tl-top">
-          <div class="tl-org">Sony Group Corporation</div>
-          <div class="tl-when">Sep. 2024 – Present</div>
-        </div>
+        <div class="tl-org">Sony Group Corporation</div>
         <p class="tl-role">Research Scientist, <a href="https://sony.github.io/creativeai/">Creative AI Lab</a></p>
+        <div class="tl-meta">
+          <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Tokyo, Japan</span>
+          <span class="tl-when">Sep. 2024 – Present</span>
+        </div>
         <div class="tl-kind">Experience</div>
       </div>
     </div>
@@ -46,11 +44,12 @@ I am also open to research collaboration. Please drop me an email if you are int
     <div class="tl-card tl-card--exp">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-briefcase"></i></div>
       <div class="tl-body">
-        <div class="tl-top">
-          <div class="tl-org">Microsoft</div>
-          <div class="tl-when">Sep. 2023 – Dec. 2023</div>
+        <div class="tl-org">Microsoft</div>
+        <p class="tl-role">Research Intern, <a href="https://www.microsoft.com/en-us/research/project/document-ai/overview/">Document AI</a></p>
+        <div class="tl-meta">
+          <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Seattle, USA</span>
+          <span class="tl-when">Sep. 2023 – Dec. 2023</span>
         </div>
-        <p class="tl-role">Research Intern, <a href="https://www.microsoft.com/en-us/research/project/document-ai/overview/">Document AI</a> (Seattle)</p>
         <div class="tl-kind">Experience</div>
       </div>
     </div>
@@ -58,12 +57,13 @@ I am also open to research collaboration. Please drop me an email if you are int
     <div class="tl-card tl-card--both">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-graduation-cap"></i></div>
       <div class="tl-body">
-        <div class="tl-top">
-          <div class="tl-org">University of California, Los Angeles</div>
-          <div class="tl-when">Mar. 2023 – Mar. 2024</div>
-        </div>
+        <div class="tl-org">University of California, Los Angeles</div>
         <p class="tl-role">Visiting Researcher, <a href="https://scai.cs.ucla.edu/">Scalable Analytics Institute</a></p>
         <p class="tl-note">Advisor: <a href="https://web.cs.ucla.edu/~weiwang/">Prof. Wei Wang</a></p>
+        <div class="tl-meta">
+          <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Los Angeles, USA</span>
+          <span class="tl-when">Mar. 2023 – Mar. 2024</span>
+        </div>
         <div class="tl-kind">Education · Experience</div>
       </div>
     </div>
@@ -71,11 +71,12 @@ I am also open to research collaboration. Please drop me an email if you are int
     <div class="tl-card tl-card--exp">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-briefcase"></i></div>
       <div class="tl-body">
-        <div class="tl-top">
-          <div class="tl-org">Microsoft AI R&amp;D Center</div>
-          <div class="tl-when">May 2022 – Nov. 2022</div>
+        <div class="tl-org">Microsoft AI R&amp;D Center</div>
+        <p class="tl-role">Research Intern, <a href="https://www.microsoft.com/en-us/research/project/document-ai/overview/">Document AI</a></p>
+        <div class="tl-meta">
+          <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Taipei, Taiwan</span>
+          <span class="tl-when">May 2022 – Nov. 2022</span>
         </div>
-        <p class="tl-role">Research Intern, <a href="https://www.microsoft.com/en-us/research/project/document-ai/overview/">Document AI</a> (Taipei)</p>
         <div class="tl-kind">Experience</div>
       </div>
     </div>
@@ -83,12 +84,13 @@ I am also open to research collaboration. Please drop me an email if you are int
     <div class="tl-card tl-card--edu">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-graduation-cap"></i></div>
       <div class="tl-body">
-        <div class="tl-top">
-          <div class="tl-org">National Yang Ming Chiao Tung University</div>
-          <div class="tl-when">Sep. 2020 – Mar. 2024</div>
-        </div>
+        <div class="tl-org">National Yang Ming Chiao Tung University</div>
         <p class="tl-role">Ph.D., Institute of Computer Science and Engineering</p>
         <p class="tl-note">Advisor: <a href="https://sites.google.com/site/wcpeng/wcpeng">Prof. Wen-Chih Peng</a></p>
+        <div class="tl-meta">
+          <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
+          <span class="tl-when">Sep. 2020 – Mar. 2024</span>
+        </div>
         <div class="tl-kind">Education</div>
       </div>
     </div>
@@ -96,11 +98,12 @@ I am also open to research collaboration. Please drop me an email if you are int
     <div class="tl-card tl-card--exp">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-briefcase"></i></div>
       <div class="tl-body">
-        <div class="tl-top">
-          <div class="tl-org">NYCU</div>
-          <div class="tl-when">Jul. 2020 – Mar. 2024</div>
-        </div>
+        <div class="tl-org">National Yang Ming Chiao Tung University</div>
         <p class="tl-role">Ph.D. Researcher, <a href="https://lab-adsl-website.vercel.app/">Advanced Database System Laboratory</a></p>
+        <div class="tl-meta">
+          <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
+          <span class="tl-when">Jul. 2020 – Mar. 2024</span>
+        </div>
         <div class="tl-kind">Experience</div>
       </div>
     </div>
@@ -108,12 +111,13 @@ I am also open to research collaboration. Please drop me an email if you are int
     <div class="tl-card tl-card--exp">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-briefcase"></i></div>
       <div class="tl-body">
-        <div class="tl-top">
-          <div class="tl-org">Precision Sport Science</div>
-          <div class="tl-when">Jun. 2018 – Jun. 2022</div>
-        </div>
+        <div class="tl-org">Precision Sport Science</div>
         <p class="tl-role">Project Lead &amp; Research Scientist, Coach AI in Badminton</p>
         <p class="tl-note"><a href="https://github.com/wywyWang/CoachAI-Projects">project</a></p>
+        <div class="tl-meta">
+          <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
+          <span class="tl-when">Jun. 2018 – Jun. 2022</span>
+        </div>
         <div class="tl-kind">Experience</div>
       </div>
     </div>
@@ -121,11 +125,12 @@ I am also open to research collaboration. Please drop me an email if you are int
     <div class="tl-card tl-card--edu">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-graduation-cap"></i></div>
       <div class="tl-body">
-        <div class="tl-top">
-          <div class="tl-org">National Chiao Tung University</div>
-          <div class="tl-when">Sep. 2016 – Jun. 2020</div>
-        </div>
+        <div class="tl-org">National Chiao Tung University</div>
         <p class="tl-role">B.S., Department of Computer Science</p>
+        <div class="tl-meta">
+          <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
+          <span class="tl-when">Sep. 2016 – Jun. 2020</span>
+        </div>
         <div class="tl-kind">Education</div>
       </div>
     </div>
@@ -329,95 +334,172 @@ I am also open to research collaboration. Please drop me an email if you are int
 
 # Honors and Awards
 
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">May 2026</span></div>
-  <span class="cv-what">Gold Reviewer</span>
-  <span class="cv-where">ICML 2026</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Apr. 2025</span></div>
-  <span class="cv-what">Honorary Membership</span>
-  <span class="cv-where">The Phi Tau Phi Scholastic Honor Society</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Mar. 2025</span></div>
-  <span class="cv-what">Best Dissertation Award</span>
-  <span class="cv-where">Institute of Information &amp; Computing Machinery</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Dec. 2024</span></div>
-  <span class="cv-what">Top-10% Outstanding Reviewer</span>
-  <span class="cv-where">KDD 2025</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Dec. 2024</span></div>
-  <span class="cv-what">Best Dissertation Award</span>
-  <span class="cv-where">Taiwanese Association for Artificial Intelligence</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Sep. 2023</span></div>
-  <span class="cv-what">Sports Science Research Award</span>
-  <span class="cv-where">Sport Administration, Ministry of Education</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Aug. 2023</span></div>
-  <span class="cv-what">KDD Student Scholarship</span>
-  <span class="cv-where">ACM</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Aug. 2023</span></div>
-  <span class="cv-what">Top Research of AI and Information Technology Scholarship</span>
-  <span class="cv-where">Appier</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">May 2023</span></div>
-  <span class="cv-what">21st Y.Z. Hsu Science Paper Award</span>
-  <span class="cv-where">Far Eastern Y.Z. Hsu Foundation</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Feb. 2023</span></div>
-  <span class="cv-what">AAAI Student Scholarship</span>
-  <span class="cv-where">AAAI</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Jan. 2023</span></div>
-  <span class="cv-what">Google Conference Scholarships</span>
-  <span class="cv-where">Google</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Jan. 2023</span></div>
-  <span class="cv-what">AAAI Student Scholarships</span>
-  <span class="cv-where">AAAI</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Mar. 2022</span></div>
-  <span class="cv-what">Google Conference Scholarships</span>
-  <span class="cv-where">Google</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Feb. 2022</span></div>
-  <span class="cv-what">Best Paper Award</span>
-  <span class="cv-where">AAAI DeFactify Workshop</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Feb. 2022</span></div>
-  <span class="cv-what">AAAI Student Scholarships</span>
-  <span class="cv-where">AAAI</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Jan. 2022</span></div>
-  <span class="cv-what">Top Research of AI and Information Technology Scholarship</span>
-  <span class="cv-where">Appier</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Aug. 2019</span></div>
-  <span class="cv-what">The Yin Zhi Tong Memorial Scholarship</span>
-  <span class="cv-where">National Yang Ming Chiao Tung University</span>
-</div>
-<div class="cv-item">
-  <div class="cv-meta"><span class="paper-badge">Jul. 2019</span></div>
-  <span class="cv-what">College Student Research Scholarship</span>
-  <span class="cv-where">Ministry of Science and Technology</span>
+<div class="timeline">
+  <div class="timeline-list">
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Gold Reviewer</div>
+        <p class="tl-role">ICML 2026</p>
+        <div class="tl-meta"><span class="tl-when">May 2026</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Honorary Membership</div>
+        <p class="tl-role">The Phi Tau Phi Scholastic Honor Society</p>
+        <div class="tl-meta"><span class="tl-when">Apr. 2025</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Best Dissertation Award</div>
+        <p class="tl-role">Institute of Information &amp; Computing Machinery</p>
+        <div class="tl-meta"><span class="tl-when">Mar. 2025</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Top-10% Outstanding Reviewer</div>
+        <p class="tl-role">KDD 2025</p>
+        <div class="tl-meta"><span class="tl-when">Dec. 2024</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Best Dissertation Award</div>
+        <p class="tl-role">Taiwanese Association for Artificial Intelligence</p>
+        <div class="tl-meta"><span class="tl-when">Dec. 2024</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Sports Science Research Award</div>
+        <p class="tl-role">Sport Administration, Ministry of Education</p>
+        <div class="tl-meta"><span class="tl-when">Sep. 2023</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">KDD Student Scholarship</div>
+        <p class="tl-role">ACM</p>
+        <div class="tl-meta"><span class="tl-when">Aug. 2023</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Top Research of AI and Information Technology Scholarship</div>
+        <p class="tl-role">Appier</p>
+        <div class="tl-meta"><span class="tl-when">Aug. 2023</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">21st Y.Z. Hsu Science Paper Award</div>
+        <p class="tl-role">Far Eastern Y.Z. Hsu Foundation</p>
+        <div class="tl-meta"><span class="tl-when">May 2023</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">AAAI Student Scholarship</div>
+        <p class="tl-role">AAAI</p>
+        <div class="tl-meta"><span class="tl-when">Feb. 2023</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Google Conference Scholarships</div>
+        <p class="tl-role">Google</p>
+        <div class="tl-meta"><span class="tl-when">Jan. 2023</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">AAAI Student Scholarships</div>
+        <p class="tl-role">AAAI</p>
+        <div class="tl-meta"><span class="tl-when">Jan. 2023</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Google Conference Scholarships</div>
+        <p class="tl-role">Google</p>
+        <div class="tl-meta"><span class="tl-when">Mar. 2022</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Best Paper Award</div>
+        <p class="tl-role">AAAI DeFactify Workshop</p>
+        <div class="tl-meta"><span class="tl-when">Feb. 2022</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">AAAI Student Scholarships</div>
+        <p class="tl-role">AAAI</p>
+        <div class="tl-meta"><span class="tl-when">Feb. 2022</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">Top Research of AI and Information Technology Scholarship</div>
+        <p class="tl-role">Appier</p>
+        <div class="tl-meta"><span class="tl-when">Jan. 2022</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">The Yin Zhi Tong Memorial Scholarship</div>
+        <p class="tl-role">National Yang Ming Chiao Tung University</p>
+        <div class="tl-meta"><span class="tl-when">Aug. 2019</span></div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-org">College Student Research Scholarship</div>
+        <p class="tl-role">Ministry of Science and Technology</p>
+        <div class="tl-meta"><span class="tl-when">Jul. 2019</span></div>
+      </div>
+    </div>
+
+  </div>
 </div>
 
 # Competition Awards
