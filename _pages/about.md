@@ -75,10 +75,10 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2602.20981">paper</a>{% endcapture %}
 {% include paper.html selected="false" badge="CVPR 2026" title="Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models" url="https://arxiv.org/abs/2602.20981" authors="Christian Simon, Masato Ishii, Wei-Yao Wang, Koichi Saito, Akio Hayakawa, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji" links=links %}
 
-{% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2510.00523">preprint</a> <a class="paper-link-btn" href="https://sony.github.io/virtue/">website</a>{% endcapture %}
+{% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2510.00523">paper</a> <a class="paper-link-btn" href="https://sony.github.io/virtue/">website</a>{% endcapture %}
 {% include paper.html badge="ICLR 2026" title="VIRTUE: Visual-Interactive Text-Image Universal Embedder" url="https://arxiv.org/abs/2510.00523" authors="Wei-Yao Wang, Kazuya Tateishi, Qiyu Wu, Shusuke Takahashi, Yuki Mitsufuji" links=links %}
 
-{% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2506.07033">preprint</a>{% endcapture %}
+{% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2506.07033">paper</a>{% endcapture %}
 {% include paper.html selected="false" badge="WSDM 2026" title="Adapting to Evolving Data: Test-Time Expert Aggregation for Imbalanced Tabular Regression" url="https://arxiv.org/abs/2506.07033" authors="Yung-Chien Wang, Kuang-Da Wang, Wei-Yao Wang, Wen-Chih Peng" links=links %}
 
 {% include paper.html selected="false" badge="ACL SRW 2025" award="Oral" title="Tree-of-Report: Table-to-Text Generation for Sports Game Reports with Tree-Structured Prompting" authors="Shang-Hsuan Chiang, Tsan-Tsung Yang, Kuang-Da Wang, Wei-Yao Wang, An-Zi Yen, Wen-Chih Peng" %}
@@ -155,9 +155,11 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% capture links %}<a class="paper-link-btn" href="https://www.airitilibrary.com/Publication/alDetailedMesh?docid=10247297-202006-202007060015-202007060015-201-213">paper</a>{% endcapture %}
 {% include paper.html selected="false" badge="PE Journal 2020" title="Badminton Coach AI: A badminton match data analysis platform based on deep learning" url="https://www.airitilibrary.com/Publication/alDetailedMesh?docid=10247297-202006-202007060015-202007060015-201-213" authors="Wei-Yao Wang, Kai-Shiang Chang, Teng-Fong Chen, Chih-Chuan Wang, Wen-Chih Peng, Chih-Wei Yi" links=links %}
 
-{% include paper.html selected="false" kind="workshop" badge="NeurIPS Workshop 2024" title="Align and Fine-Tune: Enhancing LLMs for Time-Series Forecasting" authors="Ching Chang, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen, Sagar Samtani" %}
+{% capture links %}<a class="paper-link-btn" href="https://neurips.cc/virtual/2024/103047">paper</a>{% endcapture %}
+{% include paper.html selected="false" kind="workshop" badge="NeurIPS Workshop 2024" title="Align and Fine-Tune: Enhancing LLMs for Time-Series Forecasting" url="https://neurips.cc/virtual/2024/103047" authors="Ching Chang, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen, Sagar Samtani" links=links %}
 
-{% include paper.html selected="false" kind="workshop" badge="NeurIPS Workshop 2024" title="Self-Supervised Learning of Disentangled Representations for Multivariate Time-Series" authors="Ching Chang, Chan Chiao-Tung, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen" %}
+{% capture links %}<a class="paper-link-btn" href="https://neurips.cc/virtual/2024/104562">paper</a>{% endcapture %}
+{% include paper.html selected="false" kind="workshop" badge="NeurIPS Workshop 2024" title="Self-Supervised Learning of Disentangled Representations for Multivariate Time-Series" url="https://neurips.cc/virtual/2024/104562" authors="Ching Chang, Chan Chiao-Tung, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen" links=links %}
 
 {% include paper.html selected="false" kind="workshop" badge="KDD Workshop 2023" title="The CoachAI Badminton Environment: Improving Badminton Player Tactics with A Novel Reinforcement Learning Environment" authors="Kuang-Da Wang, Yu-Tse Chen, Yu-Heng Lin, Wei-Yao Wang, Wen-Chih Peng" %}
 
@@ -195,43 +197,172 @@ I am also open to research collaboration. Please drop me an email if you are int
 
 # Academic Services
 
-**Conference (Senior) Program Committee:**
-ICML'26, CVPR'26, ICCV'25, ICLR (25-now), KDD (25-now), AAAI (22-now), IJCAI (23-now), ACL ARR (22-now), ISACE'23, LT-EDI-ACL 2022 @ ACL'22
+<div class="cv-role">Conference (Senior) Program Committee</div>
+<div class="cv-pills">
+  <span class="paper-badge">ICML'26</span>
+  <span class="paper-badge">CVPR'26</span>
+  <span class="paper-badge">ICCV'25</span>
+  <span class="paper-badge">ICLR (25-now)</span>
+  <span class="paper-badge">KDD (25-now)</span>
+  <span class="paper-badge">AAAI (22-now)</span>
+  <span class="paper-badge">IJCAI (23-now)</span>
+  <span class="paper-badge">ACL ARR (22-now)</span>
+  <span class="paper-badge">ISACE'23</span>
+  <span class="paper-badge">LT-EDI-ACL 2022 @ ACL'22</span>
+</div>
 
-**Organizer:**
-GenProCC @ NeurIPS'25, ITPSS @ IJCAI'23-24, CoachAI Challenge @ IJCAI'23, SocialNLP @ TheWebConf'22 and NAACL'22
+<div class="cv-role">Organizer</div>
+<div class="cv-pills">
+  <a class="paper-badge" href="https://genprocc.github.io/">GenProCC @ NeurIPS'25</a>
+  <a class="paper-badge" href="https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html">ITPSS @ IJCAI'23-24</a>
+  <span class="paper-badge">CoachAI Challenge @ IJCAI'23</span>
+  <a class="paper-badge" href="https://sites.google.com/view/socialnlp2022/">SocialNLP @ TheWebConf'22 and NAACL'22</a>
+</div>
 
-**Student Volunteer:**
-IJCAI'23, KDD'23
+<div class="cv-role">Student Volunteer</div>
+<div class="cv-pills">
+  <span class="paper-badge">IJCAI'23</span>
+  <span class="paper-badge">KDD'23</span>
+</div>
 
 # Honors and Awards
 
-1. [Apr. 2025] Honorary Membership, *The Phi Tau Phi Scholastic Honor Society*
-2. [Mar. 2025] Best Dissertation Award, *Institute of Information & Computing Machinery*
-3. [Dec. 2024] Top-10% Outstanding Reviewer, *KDD 2025*
-4. [Dec. 2024] Best Dissertation Award, *Taiwanese Association for Artificial Intelligence*
-5. [Sep. 2023] Sports Science Research Award, *Sport Administration, Ministry of Education*
-6. [Aug. 2023] KDD Student Scholarship, *ACM*
-7. [Aug. 2023] Top Research of AI and Information Technology Scholarship, *Appier*
-8. [May 2023] 21st Y.Z. Hsu Science Paper Award, *Far Eastern Y.Z. Hsu Foundation*
-9. [Feb. 2023] AAAI Student Scholarship, *AAAI*
-10. [Jan. 2023] Google Conference Scholarships, *Google*
-11. [Jan. 2023] AAAI Student Scholarships, *AAAI*
-12. [Mar. 2022] Google Conference Scholarships, *Google*
-13. [Feb. 2022] Best Paper Award, *AAAI DeFactify Workshop*
-14. [Feb. 2022] AAAI Student Scholarships, *AAAI*
-15. [Jan. 2022] Top Research of AI and Information Technology Scholarship, *Appier*
-16. [Aug. 2019] The Yin Zhi Tong Memorial Scholarship, *National Yang Ming Chiao Tung University*
-17. [Jul. 2019] College Student Research Scholarship, *Ministry of Science and Technology*
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Apr. 2025</span></div>
+  <span class="cv-what">Honorary Membership</span>
+  <span class="cv-where">The Phi Tau Phi Scholastic Honor Society</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Mar. 2025</span></div>
+  <span class="cv-what">Best Dissertation Award</span>
+  <span class="cv-where">Institute of Information &amp; Computing Machinery</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Dec. 2024</span></div>
+  <span class="cv-what">Top-10% Outstanding Reviewer</span>
+  <span class="cv-where">KDD 2025</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Dec. 2024</span></div>
+  <span class="cv-what">Best Dissertation Award</span>
+  <span class="cv-where">Taiwanese Association for Artificial Intelligence</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Sep. 2023</span></div>
+  <span class="cv-what">Sports Science Research Award</span>
+  <span class="cv-where">Sport Administration, Ministry of Education</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Aug. 2023</span></div>
+  <span class="cv-what">KDD Student Scholarship</span>
+  <span class="cv-where">ACM</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Aug. 2023</span></div>
+  <span class="cv-what">Top Research of AI and Information Technology Scholarship</span>
+  <span class="cv-where">Appier</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">May 2023</span></div>
+  <span class="cv-what">21st Y.Z. Hsu Science Paper Award</span>
+  <span class="cv-where">Far Eastern Y.Z. Hsu Foundation</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Feb. 2023</span></div>
+  <span class="cv-what">AAAI Student Scholarship</span>
+  <span class="cv-where">AAAI</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Jan. 2023</span></div>
+  <span class="cv-what">Google Conference Scholarships</span>
+  <span class="cv-where">Google</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Jan. 2023</span></div>
+  <span class="cv-what">AAAI Student Scholarships</span>
+  <span class="cv-where">AAAI</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Mar. 2022</span></div>
+  <span class="cv-what">Google Conference Scholarships</span>
+  <span class="cv-where">Google</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Feb. 2022</span></div>
+  <span class="cv-what">Best Paper Award</span>
+  <span class="cv-where">AAAI DeFactify Workshop</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Feb. 2022</span></div>
+  <span class="cv-what">AAAI Student Scholarships</span>
+  <span class="cv-where">AAAI</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Jan. 2022</span></div>
+  <span class="cv-what">Top Research of AI and Information Technology Scholarship</span>
+  <span class="cv-where">Appier</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Aug. 2019</span></div>
+  <span class="cv-what">The Yin Zhi Tong Memorial Scholarship</span>
+  <span class="cv-where">National Yang Ming Chiao Tung University</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Jul. 2019</span></div>
+  <span class="cv-what">College Student Research Scholarship</span>
+  <span class="cv-where">Ministry of Science and Technology</span>
+</div>
 
 # Competition Awards
 
-1. [Dec. 2022] **1st Place in Factify 2.0 Challenge**, De-Factify @ AAAI 2023 Workshop [[code](https://github.com/wwweiwei/Pre-CoFactv2-AAAI-2023)]
-2. [Oct. 2022] **4th Place in Rounded Evaluation of Recommender Systems**, EvalRS @ CIKM’22 Workshop
-3. [Feb. 2022] **2nd Place in Detecting Signs of Depression from Social Media Text**, LT-EDI @ ACL 2022 Workshop [[code](https://github.com/wywyWang/Depression-Detection-LT-EDI-ACL-2022)]
-4. [Nov. 2021] **5th Place and Best Paper Award in Factify Challenge**, De-Factify @ AAAI 2022 Workshop [[code](https://github.com/wywyWang/Multi-Modal-Fact-Verification-2021)]
-5. [Sep. 2021] **3rd Place and National Judges Award**, Legal-Tech Hackathon 2021. [[code](https://github.com/wywyWang/Legal-tech-2021)]
-6. [Jun. 2021] **1st Place in Fake-EmoReact Challenge**, SocialNLP @ NAACL 2021 Workshop [[code](https://github.com/wywyWang/Fake-EmoReact-2021)]
-7. [Jan. 2021] **Bronze Medal in Riiid Answer Correctness Prediction Challenge**, AAAI 2021 Workshop [[code](https://github.com/wywyWang/Riiid-Answer-Correctness-Prediction)]
-8. [Jun. 2020] **3rd Place in EmotionGIF Challenge**, SocialNLP @ ACL 2020 Workshop [[report](https://arxiv.org/abs/2007.02259), [code](https://github.com/wywyWang/NLP-2020-EmotionGIF)]
-9. [Dec. 2019] **Excellent Award on Research Project Competition**, National Chiao Tung University
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Dec. 2022</span><span class="paper-award">1st Place</span></div>
+  <span class="cv-what">Factify 2.0 Challenge</span>
+  <span class="cv-where">De-Factify @ AAAI 2023 Workshop</span>
+  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wwweiwei/Pre-CoFactv2-AAAI-2023">code</a></span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Oct. 2022</span><span class="paper-award">4th Place</span></div>
+  <span class="cv-what">Rounded Evaluation of Recommender Systems</span>
+  <span class="cv-where">EvalRS @ CIKM'22 Workshop</span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Feb. 2022</span><span class="paper-award">2nd Place</span></div>
+  <span class="cv-what">Detecting Signs of Depression from Social Media Text</span>
+  <span class="cv-where">LT-EDI @ ACL 2022 Workshop</span>
+  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Depression-Detection-LT-EDI-ACL-2022">code</a></span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Nov. 2021</span><span class="paper-award">5th Place</span><span class="paper-award">Best Paper</span></div>
+  <span class="cv-what">Factify Challenge</span>
+  <span class="cv-where">De-Factify @ AAAI 2022 Workshop</span>
+  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Multi-Modal-Fact-Verification-2021">code</a></span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Sep. 2021</span><span class="paper-award">3rd Place</span><span class="paper-award">National Judges Award</span></div>
+  <span class="cv-what">Legal-Tech Hackathon 2021</span>
+  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Legal-tech-2021">code</a></span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Jun. 2021</span><span class="paper-award">1st Place</span></div>
+  <span class="cv-what">Fake-EmoReact Challenge</span>
+  <span class="cv-where">SocialNLP @ NAACL 2021 Workshop</span>
+  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Fake-EmoReact-2021">code</a></span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Jan. 2021</span><span class="paper-award">Bronze Medal</span></div>
+  <span class="cv-what">Riiid Answer Correctness Prediction Challenge</span>
+  <span class="cv-where">AAAI 2021 Workshop</span>
+  <span class="paper-links"><a class="paper-link-btn" href="https://github.com/wywyWang/Riiid-Answer-Correctness-Prediction">code</a></span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Jun. 2020</span><span class="paper-award">3rd Place</span></div>
+  <span class="cv-what">EmotionGIF Challenge</span>
+  <span class="cv-where">SocialNLP @ ACL 2020 Workshop</span>
+  <span class="paper-links"><a class="paper-link-btn" href="https://arxiv.org/abs/2007.02259">report</a> <a class="paper-link-btn" href="https://github.com/wywyWang/NLP-2020-EmotionGIF">code</a></span>
+</div>
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">Dec. 2019</span><span class="paper-award">Excellent Award</span></div>
+  <span class="cv-what">Research Project Competition</span>
+  <span class="cv-where">National Chiao Tung University</span>
+</div>
