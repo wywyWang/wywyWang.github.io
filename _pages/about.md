@@ -204,9 +204,9 @@ I am also open to research collaboration. Please drop me an email if you are int
   <span class="paper-badge">ICCV'25</span>
   <span class="paper-badge">ICLR (25-now)</span>
   <span class="paper-badge">KDD (25-now)</span>
-  <span class="paper-badge">AAAI (22-now)</span>
-  <span class="paper-badge">IJCAI (23-now)</span>
   <span class="paper-badge">ACL ARR (22-now)</span>
+  <span class="paper-badge">AAAI (22-25)</span>
+  <span class="paper-badge">IJCAI (23-25)</span>
   <span class="paper-badge">ISACE'23</span>
   <span class="paper-badge">LT-EDI-ACL 2022 @ ACL'22</span>
 </div>
