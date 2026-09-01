@@ -16,20 +16,111 @@ My research intersts include Interactive Omnimodal Models; Multimodal LLMs; LLM 
 
 I am also open to research collaboration. Please drop me an email if you are interested in.
 
-# Research Experience
+<span class="anchor" id="research-experience"></span>
+<span class="anchor" id="education"></span>
 
-- [Sep. 2024 - Present] Research Scientist, [Creative AI Lab](https://sony.github.io/creativeai/), Sony Group Corporation
-- [Jul. 2020 - Mar. 2024] Ph.D. Researcher, [Advanced Database System Laboratory](https://lab-adsl-website.vercel.app/), NYCU
-- [Mar. 2023 - Mar. 2024] Visiting Researcher, [Scalable Analytics Institute](https://scai.cs.ucla.edu/), UCLA
-- [Sep. 2023 - Dec. 2023] Research Intern, Microsoft ([Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/))
-- [May 2022 - Nov. 2022] Research Intern, Microsoft AI R&D Center ([Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/))
-- [Jun. 2018 - Jun. 2022] Project Lead & Research Scientist, Precision Sport Science - Coach AI in Badminton ([project link](https://github.com/wywyWang/CoachAI-Projects))
+# Experience & Education
 
-# Education
+<!-- Bars use months from Jan 2016; span is 132 months through Dec 2026. --a is start, --b is end (exclusive). -->
+<div class="timeline">
+  <div class="timeline-legend">
+    <span class="timeline-key timeline-key--edu">Education</span>
+    <span class="timeline-key timeline-key--exp">Experience</span>
+  </div>
+  <div class="timeline-scroll">
+    <div class="timeline-chart">
+      <div class="timeline-years" aria-hidden="true">
+        <span></span><span>2016</span><span>2017</span><span>2018</span><span>2019</span><span>2020</span><span>2021</span><span>2022</span><span>2023</span><span>2024</span><span>2025</span><span>2026</span>
+      </div>
 
-- [Sep. 2020 - Mar. 2024] Ph.D. at Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University (advisor: [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng))
-- [Mar. 2023 - Mar. 2024] Visiting Researcher in Scalable Analytics Institute, University of California, Los Angeles (advisor: [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/))
-- [Sep. 2016 - Jun. 2020] B.S. in Department of Computer Science, National Chiao Tung University
+      <div class="timeline-lane-title">Education</div>
+      <div class="timeline-row">
+        <div class="timeline-label">Visiting Researcher <span class="timeline-org">UCLA</span></div>
+        <div class="timeline-track"><span class="timeline-bar timeline-bar--edu" style="--a:86;--b:99;" title="Mar. 2023 – Mar. 2024">Mar. 2023 – Mar. 2024</span></div>
+      </div>
+      <div class="timeline-row">
+        <div class="timeline-label">Ph.D. <span class="timeline-org">NYCU</span></div>
+        <div class="timeline-track"><span class="timeline-bar timeline-bar--edu" style="--a:56;--b:99;" title="Sep. 2020 – Mar. 2024">Sep. 2020 – Mar. 2024</span></div>
+      </div>
+      <div class="timeline-row">
+        <div class="timeline-label">B.S. <span class="timeline-org">NCTU</span></div>
+        <div class="timeline-track"><span class="timeline-bar timeline-bar--edu" style="--a:8;--b:54;" title="Sep. 2016 – Jun. 2020">Sep. 2016 – Jun. 2020</span></div>
+      </div>
+
+      <div class="timeline-lane-title">Experience</div>
+      <div class="timeline-row">
+        <div class="timeline-label">Research Scientist <span class="timeline-org">Sony</span></div>
+        <div class="timeline-track">
+          <span class="timeline-now" style="--a:128;" title="Present"></span>
+          <span class="timeline-bar timeline-bar--exp" style="--a:104;--b:128;" title="Sep. 2024 – Present">Sep. 2024 – Present</span>
+        </div>
+      </div>
+      <div class="timeline-row">
+        <div class="timeline-label">Research Intern <span class="timeline-org">Microsoft</span></div>
+        <div class="timeline-track"><span class="timeline-bar timeline-bar--exp" style="--a:92;--b:96;" title="Sep. 2023 – Dec. 2023">Sep. 2023 – Dec. 2023</span></div>
+      </div>
+      <div class="timeline-row">
+        <div class="timeline-label">Visiting Researcher <span class="timeline-org">UCLA</span></div>
+        <div class="timeline-track"><span class="timeline-bar timeline-bar--exp" style="--a:86;--b:99;" title="Mar. 2023 – Mar. 2024">Mar. 2023 – Mar. 2024</span></div>
+      </div>
+      <div class="timeline-row">
+        <div class="timeline-label">Research Intern <span class="timeline-org">Microsoft</span></div>
+        <div class="timeline-track"><span class="timeline-bar timeline-bar--exp" style="--a:76;--b:83;" title="May 2022 – Nov. 2022">May 2022 – Nov. 2022</span></div>
+      </div>
+      <div class="timeline-row">
+        <div class="timeline-label">Ph.D. Researcher <span class="timeline-org">NYCU</span></div>
+        <div class="timeline-track"><span class="timeline-bar timeline-bar--exp" style="--a:54;--b:99;" title="Jul. 2020 – Mar. 2024">Jul. 2020 – Mar. 2024</span></div>
+      </div>
+      <div class="timeline-row">
+        <div class="timeline-label">Project Lead <span class="timeline-org">CoachAI</span></div>
+        <div class="timeline-track"><span class="timeline-bar timeline-bar--exp" style="--a:29;--b:78;" title="Jun. 2018 – Jun. 2022">Jun. 2018 – Jun. 2022</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-events">
+    <div class="cv-item">
+      <div class="cv-meta"><span class="paper-badge">Sep. 2024 – Present</span><span class="paper-badge">Experience</span></div>
+      <span class="cv-what">Research Scientist</span>
+      <span class="cv-where"><a href="https://sony.github.io/creativeai/">Creative AI Lab</a>, Sony Group Corporation</span>
+    </div>
+    <div class="cv-item">
+      <div class="cv-meta"><span class="paper-badge">Sep. 2020 – Mar. 2024</span><span class="paper-award">Education</span></div>
+      <span class="cv-what">Ph.D., Institute of Computer Science and Engineering</span>
+      <span class="cv-where">National Yang Ming Chiao Tung University (advisor: <a href="https://sites.google.com/site/wcpeng/wcpeng">Prof. Wen-Chih Peng</a>)</span>
+    </div>
+    <div class="cv-item">
+      <div class="cv-meta"><span class="paper-badge">Jul. 2020 – Mar. 2024</span><span class="paper-badge">Experience</span></div>
+      <span class="cv-what">Ph.D. Researcher</span>
+      <span class="cv-where"><a href="https://lab-adsl-website.vercel.app/">Advanced Database System Laboratory</a>, NYCU</span>
+    </div>
+    <div class="cv-item">
+      <div class="cv-meta"><span class="paper-badge">Mar. 2023 – Mar. 2024</span><span class="paper-award">Education</span><span class="paper-badge">Experience</span></div>
+      <span class="cv-what">Visiting Researcher</span>
+      <span class="cv-where"><a href="https://scai.cs.ucla.edu/">Scalable Analytics Institute</a>, University of California, Los Angeles (advisor: <a href="https://web.cs.ucla.edu/~weiwang/">Prof. Wei Wang</a>)</span>
+    </div>
+    <div class="cv-item">
+      <div class="cv-meta"><span class="paper-badge">Sep. 2023 – Dec. 2023</span><span class="paper-badge">Experience</span></div>
+      <span class="cv-what">Research Intern</span>
+      <span class="cv-where">Microsoft (<a href="https://www.microsoft.com/en-us/research/project/document-ai/overview/">Document AI</a>), Seattle</span>
+    </div>
+    <div class="cv-item">
+      <div class="cv-meta"><span class="paper-badge">May 2022 – Nov. 2022</span><span class="paper-badge">Experience</span></div>
+      <span class="cv-what">Research Intern</span>
+      <span class="cv-where">Microsoft AI R&amp;D Center (<a href="https://www.microsoft.com/en-us/research/project/document-ai/overview/">Document AI</a>), Taipei</span>
+    </div>
+    <div class="cv-item">
+      <div class="cv-meta"><span class="paper-badge">Jun. 2018 – Jun. 2022</span><span class="paper-badge">Experience</span></div>
+      <span class="cv-what">Project Lead &amp; Research Scientist</span>
+      <span class="cv-where">Precision Sport Science — Coach AI in Badminton (<a href="https://github.com/wywyWang/CoachAI-Projects">project</a>)</span>
+    </div>
+    <div class="cv-item">
+      <div class="cv-meta"><span class="paper-badge">Sep. 2016 – Jun. 2020</span><span class="paper-award">Education</span></div>
+      <span class="cv-what">B.S., Department of Computer Science</span>
+      <span class="cv-where">National Chiao Tung University</span>
+    </div>
+  </div>
+</div>
 
 # Publications
 
@@ -227,6 +318,11 @@ I am also open to research collaboration. Please drop me an email if you are int
 
 # Honors and Awards
 
+<div class="cv-item">
+  <div class="cv-meta"><span class="paper-badge">May 2026</span></div>
+  <span class="cv-what">Gold Reviewer</span>
+  <span class="cv-where">ICML 2026</span>
+</div>
 <div class="cv-item">
   <div class="cv-meta"><span class="paper-badge">Apr. 2025</span></div>
   <span class="cv-what">Honorary Membership</span>
