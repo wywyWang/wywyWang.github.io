@@ -65,9 +65,21 @@ details.paper summary > a:hover {
 
 .paper-authors {
   display: block;
-  margin-top: 0.15em;
-  font-size: 0.85em;
-  opacity: 0.75;
+  margin-top: 0.2em;
+  font-size: 0.88em;
+  color: #6f6f6f;
+}
+
+:root.dark .paper-authors {
+  color: #9a9a9a;
+}
+
+.paper-me {
+  color: var(--link-color);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1.5px;
 }
 
 details.paper:not([open]) .paper-authors {
@@ -104,26 +116,37 @@ a.paper-link-btn:hover {
 .paper-badge,
 .paper-award {
   display: inline-block;
-  font-size: 0.72em;
+  font-size: 0.8em;
   font-weight: 700;
-  letter-spacing: 0.02em;
-  padding: 0.12em 0.6em;
+  letter-spacing: 0.03em;
+  padding: 0.18em 0.7em;
   border-radius: 999px;
-  margin-right: 0.3em;
-  vertical-align: 0.14em;
+  margin-right: 0.35em;
+  vertical-align: 0.12em;
   white-space: nowrap;
+  line-height: 1.3;
 }
 
 .paper-badge {
-  background: rgba(27, 78, 155, 0.18);
-  border: 1px solid rgba(27, 78, 155, 0.4);
-  color: inherit;
+  background: #1B4E9B;
+  border: 1px solid #1B4E9B;
+  color: #fff;
+}
+
+:root.dark .paper-badge {
+  background: #3d6eb8;
+  border-color: #3d6eb8;
 }
 
 .paper-award {
-  background: rgba(196, 146, 48, 0.18);
-  border: 1px solid rgba(196, 146, 48, 0.5);
-  color: inherit;
+  background: #d4a017;
+  border: 1px solid #d4a017;
+  color: #1a1408;
+}
+
+:root.dark .paper-award {
+  background: #e0b84a;
+  border-color: #e0b84a;
 }
 
 .paper-body {
@@ -194,6 +217,13 @@ details.paper[open] .paper-body {
   background: rgba(27, 78, 155, 0.2);
   border-color: rgba(27, 78, 155, 0.55);
   font-weight: 600;
+}
+
+#paper-list[data-filter="selected"] .paper[data-selected="no"],
+#paper-list[data-filter="mentor"] .paper:not([data-mentored]),
+#paper-list[data-filter="conference"] .paper:not([data-kind="conference"]),
+#paper-list[data-filter="workshop"] .paper:not([data-kind="workshop"]) {
+  display: none;
 }
 
 a.resume-btn {

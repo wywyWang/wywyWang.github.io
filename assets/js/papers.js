@@ -5,8 +5,9 @@
   var tabs = document.querySelectorAll('.paper-tab');
 
   function apply(filter) {
+    list.setAttribute('data-filter', filter);
     cards.forEach(function (card) {
-      var selected = card.hasAttribute('data-selected');
+      var selected = card.getAttribute('data-selected') !== 'no';
       var kind = card.getAttribute('data-kind');
       var show = false;
       if (filter === 'selected') show = selected;
@@ -36,4 +37,7 @@
       apply(tab.getAttribute('data-filter'));
     });
   });
+
+  var active = document.querySelector('.paper-tab.is-active');
+  apply(active ? active.getAttribute('data-filter') : 'selected');
 })();

@@ -40,12 +40,12 @@ I am also open to research collaboration. Please drop me an email if you are int
 
 <p class="paper-tabs">
   <button type="button" class="paper-tab is-active" data-filter="selected">Selected</button>
+  <button type="button" class="paper-tab" data-filter="mentor">Mentored</button>
   <button type="button" class="paper-tab" data-filter="conference">Journals and Conferences</button>
   <button type="button" class="paper-tab" data-filter="workshop">Workshops</button>
-  <button type="button" class="paper-tab" data-filter="mentor">Mentor</button>
 </p>
 
-<div id="paper-list">
+<div id="paper-list" data-filter="selected">
 
 {% include paper.html selected="false" badge="Preprint" title="Neural Audio-Visual Chords: A Multimodal Framework for Temporally and Spatially Aligned Sound Generation from Visual Cues" authors="Christian Simon, Wei-Yao Wang, Dongseok Shim, Kazuki Shimada, Masato Ishii, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji" %}
 
