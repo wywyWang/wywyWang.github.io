@@ -337,165 +337,237 @@ I am also open to research collaboration. Please drop me an email if you are int
 <div class="timeline">
   <div class="timeline-list">
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">May 2026</span>
-        <span class="tl-org">Gold Reviewer</span>
-        <span class="tl-role">ICML 2026</span>
+        <div class="tl-line">
+          <span class="tl-org">Gold Reviewer</span>
+          <span class="tl-when">May 2026</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">ICML 2026</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Apr. 2025</span>
-        <span class="tl-org">Honorary Membership</span>
-        <span class="tl-role">The Phi Tau Phi Scholastic Honor Society</span>
+        <div class="tl-line">
+          <span class="tl-org">Honorary Membership</span>
+          <span class="tl-when">Apr. 2025</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">The Phi Tau Phi Scholastic Honor Society</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Mar. 2025</span>
-        <span class="tl-org">Best Dissertation Award</span>
-        <span class="tl-role">Institute of Information &amp; Computing Machinery</span>
+        <div class="tl-line">
+          <span class="tl-org">Best Dissertation Award</span>
+          <span class="tl-when">Mar. 2025</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Institute of Information &amp; Computing Machinery</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Dec. 2024</span>
-        <span class="tl-org">Top-10% Outstanding Reviewer</span>
-        <span class="tl-role">KDD 2025</span>
+        <div class="tl-line">
+          <span class="tl-org">Top-10% Outstanding Reviewer</span>
+          <span class="tl-when">Dec. 2024</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">KDD 2025</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Dec. 2024</span>
-        <span class="tl-org">Best Dissertation Award</span>
-        <span class="tl-role">Taiwanese Association for Artificial Intelligence</span>
+        <div class="tl-line">
+          <span class="tl-org">Best Dissertation Award</span>
+          <span class="tl-when">Dec. 2024</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Taiwanese Association for Artificial Intelligence</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Sep. 2023</span>
-        <span class="tl-org">Sports Science Research Award</span>
-        <span class="tl-role">Sport Administration, Ministry of Education</span>
+        <div class="tl-line">
+          <span class="tl-org">Sports Science Research Award</span>
+          <span class="tl-when">Sep. 2023</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Sport Administration, Ministry of Education</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Aug. 2023</span>
-        <span class="tl-org">KDD Student Scholarship</span>
-        <span class="tl-role">ACM</span>
+        <div class="tl-line">
+          <span class="tl-org">KDD Student Scholarship</span>
+          <span class="tl-when">Aug. 2023</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">ACM</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Aug. 2023</span>
-        <span class="tl-org">Top Research of AI and Information Technology Scholarship</span>
-        <span class="tl-role">Appier</span>
+        <div class="tl-line">
+          <span class="tl-org">Top Research of AI and Information Technology Scholarship</span>
+          <span class="tl-when">Aug. 2023</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Appier</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">May 2023</span>
-        <span class="tl-org">21st Y.Z. Hsu Science Paper Award</span>
-        <span class="tl-role">Far Eastern Y.Z. Hsu Foundation</span>
+        <div class="tl-line">
+          <span class="tl-org">21st Y.Z. Hsu Science Paper Award</span>
+          <span class="tl-when">May 2023</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Far Eastern Y.Z. Hsu Foundation</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Feb. 2023</span>
-        <span class="tl-org">AAAI Student Scholarship</span>
-        <span class="tl-role">AAAI</span>
+        <div class="tl-line">
+          <span class="tl-org">AAAI Student Scholarship</span>
+          <span class="tl-when">Feb. 2023</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">AAAI</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Jan. 2023</span>
-        <span class="tl-org">Google Conference Scholarships</span>
-        <span class="tl-role">Google</span>
+        <div class="tl-line">
+          <span class="tl-org">Google Conference Scholarships</span>
+          <span class="tl-when">Jan. 2023</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Google</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Jan. 2023</span>
-        <span class="tl-org">AAAI Student Scholarships</span>
-        <span class="tl-role">AAAI</span>
+        <div class="tl-line">
+          <span class="tl-org">AAAI Student Scholarships</span>
+          <span class="tl-when">Jan. 2023</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">AAAI</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Mar. 2022</span>
-        <span class="tl-org">Google Conference Scholarships</span>
-        <span class="tl-role">Google</span>
+        <div class="tl-line">
+          <span class="tl-org">Google Conference Scholarships</span>
+          <span class="tl-when">Mar. 2022</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Google</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Feb. 2022</span>
-        <span class="tl-org">Best Paper Award</span>
-        <span class="tl-role">AAAI DeFactify Workshop</span>
+        <div class="tl-line">
+          <span class="tl-org">Best Paper Award</span>
+          <span class="tl-when">Feb. 2022</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">AAAI DeFactify Workshop</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Feb. 2022</span>
-        <span class="tl-org">AAAI Student Scholarships</span>
-        <span class="tl-role">AAAI</span>
+        <div class="tl-line">
+          <span class="tl-org">AAAI Student Scholarships</span>
+          <span class="tl-when">Feb. 2022</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">AAAI</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Jan. 2022</span>
-        <span class="tl-org">Top Research of AI and Information Technology Scholarship</span>
-        <span class="tl-role">Appier</span>
+        <div class="tl-line">
+          <span class="tl-org">Top Research of AI and Information Technology Scholarship</span>
+          <span class="tl-when">Jan. 2022</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Appier</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Aug. 2019</span>
-        <span class="tl-org">The Yin Zhi Tong Memorial Scholarship</span>
-        <span class="tl-role">National Yang Ming Chiao Tung University</span>
+        <div class="tl-line">
+          <span class="tl-org">The Yin Zhi Tong Memorial Scholarship</span>
+          <span class="tl-when">Aug. 2019</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">National Yang Ming Chiao Tung University</span>
+        </div>
       </div>
     </div>
 
-    <div class="tl-card tl-card--honor tl-card--one">
+    <div class="tl-card tl-card--honor tl-card--two">
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
-        <span class="tl-when">Jul. 2019</span>
-        <span class="tl-org">College Student Research Scholarship</span>
-        <span class="tl-role">Ministry of Science and Technology</span>
+        <div class="tl-line">
+          <span class="tl-org">College Student Research Scholarship</span>
+          <span class="tl-when">Jul. 2019</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">Ministry of Science and Technology</span>
+        </div>
       </div>
     </div>
 

@@ -193,38 +193,6 @@
   opacity: 0.55;
 }
 
-.tl-card--one {
-  align-items: center;
-  margin-bottom: 0.5em;
-}
-
-.tl-card--one .tl-icon {
-  margin-top: 0;
-}
-
-.tl-card--one .tl-body {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  column-gap: 0.5em;
-  row-gap: 0.1em;
-  padding: 0.4em 0.8em 0.42em;
-}
-
-.tl-card--one .tl-when {
-  margin-left: 0;
-  flex: 0 0 6.4em;
-}
-
-.tl-card--one .tl-role {
-  margin: 0;
-}
-
-.tl-card--one .tl-role::before {
-  content: "· ";
-  opacity: 0.45;
-}
-
 .tl-card--two {
   margin-bottom: 0.6em;
 }
