@@ -24,7 +24,6 @@ I am also open to research collaboration. Please drop me an email if you are int
 - [Sep. 2023 - Dec. 2023] Research Intern, Microsoft ([Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/))
 - [May 2022 - Nov. 2022] Research Intern, Microsoft AI R&D Center ([Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/))
 - [Jun. 2018 - Jun. 2022] Project Lead & Research Scientist, Precision Sport Science - Coach AI in Badminton ([project link](https://github.com/wywyWang/CoachAI-Projects))
-- [Jul. 2018 - Jun. 2020] Database Administrator, NCTU CS Curriculum Assistant
 
 # Education
 
@@ -56,7 +55,7 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% include paper.html selected="false" badge="EMNLP 2026" title="MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval" url="https://arxiv.org/abs/2510.15543" authors="Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2510.15306v1">preprint</a>{% endcapture %}
-{% include paper.html badge="KDD 2026" title="WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation" url="https://arxiv.org/abs/2510.15306v1" authors="Kuang-Da Wang, Zhao Wang, Wei-Yao Wang♠, Yotaro Shimose, Shingo Takamatsu" links=links %}
+{% include paper.html selected="false" badge="KDD 2026" title="WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation" url="https://arxiv.org/abs/2510.15306v1" authors="Kuang-Da Wang, Zhao Wang, Wei-Yao Wang♠, Yotaro Shimose, Shingo Takamatsu" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://icml.cc/virtual/2026/poster/62292">paper</a>{% endcapture %}
 {% include paper.html badge="ICML 2026" title="Agentic Model Predictive Questioning Control in Visual Design" url="https://icml.cc/virtual/2026/poster/62292" authors="Kuang-Da Wang, Zhao Wang, Wei-Yao Wang♠, Yotaro Shimose, Jaechang Kim, Shingo Takamatsu" links=links %}
@@ -148,7 +147,7 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% include paper.html selected="false" badge="ACM TIST 2022" title="How Is the Stroke? Inferring Shot Influence in Badminton Matches via Long Short-Term Dependencies" url="https://dl.acm.org/doi/full/10.1145/3551391" authors="Wei-Yao Wang, Teng-Fong Chan, Wen-Chih Peng, Hui-Kuo Yang, Chih-Chuan Wang, Yao-Chung Fan" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2112.01044">paper</a>{% endcapture %}
-{% include paper.html badge="AAAI 2022" title="ShuttleNet: Position-Aware Fusion of Rally Progress and Player Styles for Stroke Forecasting in Badminton" url="https://arxiv.org/abs/2112.01044" authors="Wei-Yao Wang, Hong-Han Shuai, Kai-Shiang Chang, Wen-Chih Peng" links=links %}
+{% include paper.html selected="false" badge="AAAI 2022" title="ShuttleNet: Position-Aware Fusion of Rally Progress and Player Styles for Stroke Forecasting in Badminton" url="https://arxiv.org/abs/2112.01044" authors="Wei-Yao Wang, Hong-Han Shuai, Kai-Shiang Chang, Wen-Chih Peng" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2109.06431">paper</a>{% endcapture %}
 {% include paper.html selected="false" badge="ICDM 2021" title="Exploring the Long Short-Term Dependencies to Infer Shot Influence in Badminton Matches" url="https://arxiv.org/abs/2109.06431" authors="Wei-Yao Wang, Teng-Fong Chan, Hui-Kuo Yang, Chih-Chuan Wang, Yao-Chung Fan, Wen-Chih Peng" links=links %}
@@ -190,7 +189,7 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% include paper.html selected="false" kind="workshop" badge="WWW Workshop 2022" title="KAHAN: Knowledge-Aware Hierarchical Attention Network for Fake News Detection on Social Media" url="https://dl.acm.org/doi/10.1145/3487553.3524664" authors="Yu-Wun Tseng, Hui-Kuo Yang, Wei-Yao Wang, Wen-Chih Peng" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2201.11664">paper</a>{% endcapture %}
-{% include paper.html kind="workshop" badge="AAAI Workshop 2022" award="Best Paper" title="Team Yao at Factify 2022: Utilizing Pre-trained Models and Co-attention Networks for Multi-Modal Fact Verification" url="https://arxiv.org/abs/2201.11664" authors="Wei-Yao Wang, Wen-Chih Peng" links=links %}
+{% include paper.html selected="false" kind="workshop" badge="AAAI Workshop 2022" award="Best Paper" title="Team Yao at Factify 2022: Utilizing Pre-trained Models and Co-attention Networks for Multi-Modal Fact Verification" url="https://arxiv.org/abs/2201.11664" authors="Wei-Yao Wang, Wen-Chih Peng" links=links %}
 
 </div>
 

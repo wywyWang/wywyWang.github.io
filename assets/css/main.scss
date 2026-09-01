@@ -43,6 +43,7 @@
 
 html {
   scroll-padding-top: calc(#{$masthead-height} + 8px);
+  background-color: var(--bg-color);
 }
 
 :root {
@@ -133,6 +134,7 @@ a {
   background-color: var(--footer-bg);
   color: var(--text-color);
   border-top-color: rgba(128, 128, 128, 0.3);
+  margin-top: 0;
 }
 
 .masthead__menu {
