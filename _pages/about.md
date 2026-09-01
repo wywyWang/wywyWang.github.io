@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Wei-Yao Wang. I am a research scientist in the **[Creative AI Lab](https://sony.github.io/creativeai/)** at Sony, working on **interactive multimodal models for content creation, spanning omni‑modal LLMs/embedders, video generation/editing, and agentic understanding**. I received my Ph.D. and BS degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During my academic journey, I served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. I was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
 
-My research intersts include Interactive Omnimodal Models; LLM Agents; LLM Alignment; Foundation Models; Natural Language Processing; Sport Science; and Representation Learning; which has been published more than 40+ papers in international journals and major peer-reviewed conference proceedings (e.g., ICLR, NeurPS, ICML, CVPR, KDD, AAAI, ACL, EMNLP), including multiple best paper awards. I serve on the program committees of international conferences including ICLR, ICCV, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([GenProCC@NeurIPS-25](https://genprocc.github.io/), [IT4PSS@IJCAI23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP@NAACL-22&TheWebConf-22](https://sites.google.com/view/socialnlp2022/)).
+My research intersts include Interactive Omnimodal Models; Multimodal LLMs; LLM Agents; Multimodal Representation Learning; Video Generation & Understanding; and Creative AI; which has been published more than 40+ papers in international journals and major peer-reviewed conference proceedings (e.g., ICLR, NeurPS, ICML, CVPR, KDD, AAAI, ACL, EMNLP), including multiple best paper awards. I serve on the program committees of international conferences including ICLR, ICCV, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([GenProCC@NeurIPS-25](https://genprocc.github.io/), [IT4PSS@IJCAI23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP@NAACL-22&TheWebConf-22](https://sites.google.com/view/socialnlp2022/)).
 
 I am also open to research collaboration. Please drop me an email if you are interested in.
 
@@ -53,7 +53,7 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% include paper.html badge="Preprint" title="Omni-Interactive Universal Embedder" url="https://arxiv.org/abs/2608.27044" authors="Wei-Yao Wang, Kazuya Tateishi, Shuyang Cui, Christian Simon, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2510.15543">preprint</a>{% endcapture %}
-{% include paper.html badge="EMNLP 2026" title="MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval" url="https://arxiv.org/abs/2510.15543" authors="Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji" links=links %}
+{% include paper.html selected="false" badge="EMNLP 2026" title="MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval" url="https://arxiv.org/abs/2510.15543" authors="Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2510.15306v1">preprint</a>{% endcapture %}
 {% include paper.html badge="KDD 2026" title="WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation" url="https://arxiv.org/abs/2510.15306v1" authors="Kuang-Da Wang, Zhao Wang, Wei-Yao Wang♠, Yotaro Shimose, Shingo Takamatsu" links=links %}
@@ -62,25 +62,25 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% include paper.html badge="ICML 2026" title="Agentic Model Predictive Questioning Control in Visual Design" url="https://icml.cc/virtual/2026/poster/62292" authors="Kuang-Da Wang, Zhao Wang, Wei-Yao Wang♠, Yotaro Shimose, Jaechang Kim, Shingo Takamatsu" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2603.16423">paper</a>{% endcapture %}
-{% include paper.html badge="ICML 2026" title="SF-Mamba: Rethinking State Space Model for Vision" url="https://arxiv.org/abs/2603.16423" authors="Masakazu Yoshimura, Teruaki Hayashi, Yuki Hoshino, Wei-Yao Wang, Takeshi Ohashi" links=links %}
+{% include paper.html selected="false" badge="ICML 2026" title="SF-Mamba: Rethinking State Space Model for Vision" url="https://arxiv.org/abs/2603.16423" authors="Masakazu Yoshimura, Teruaki Hayashi, Yuki Hoshino, Wei-Yao Wang, Takeshi Ohashi" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2503.02597">paper</a>{% endcapture %}
 {% include paper.html badge="ICML 2026" title="Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" url="https://arxiv.org/abs/2503.02597" authors="Wei-Yao Wang, Zhao Wang, Helen Suzuki, Yoshiyuki Kobayashi" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2509.00446">paper</a>{% endcapture %}
-{% include paper.html badge="ACL 2026 Findings" title="NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks" url="https://arxiv.org/abs/2509.00446" authors="Yen-Che Chien, Kuang-Da Wang, Wei-Yao Wang♠, Wen-Chih Peng" links=links %}
+{% include paper.html selected="false" badge="ACL 2026 Findings" title="NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks" url="https://arxiv.org/abs/2509.00446" authors="Yen-Che Chien, Kuang-Da Wang, Wei-Yao Wang♠, Wen-Chih Peng" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2502.11098">preprint</a>{% endcapture %}
-{% include paper.html badge="IEEE TAI 2026" title="Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" url="https://arxiv.org/abs/2502.11098" authors="Zhao Wang, Sota Moriyama, Wei-Yao Wang, Briti Gangopadhyay, Shingo Takamatsu" links=links %}
+{% include paper.html selected="false" badge="IEEE TAI 2026" title="Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" url="https://arxiv.org/abs/2502.11098" authors="Zhao Wang, Sota Moriyama, Wei-Yao Wang, Briti Gangopadhyay, Shingo Takamatsu" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2602.20981">paper</a>{% endcapture %}
-{% include paper.html badge="CVPR 2026" title="Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models" url="https://arxiv.org/abs/2602.20981" authors="Christian Simon, Masato Ishii, Wei-Yao Wang, Koichi Saito, Akio Hayakawa, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji" links=links %}
+{% include paper.html selected="false" badge="CVPR 2026" title="Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models" url="https://arxiv.org/abs/2602.20981" authors="Christian Simon, Masato Ishii, Wei-Yao Wang, Koichi Saito, Akio Hayakawa, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2510.00523">preprint</a> <a class="paper-link-btn" href="https://sony.github.io/virtue/">website</a>{% endcapture %}
 {% include paper.html badge="ICLR 2026" title="VIRTUE: Visual-Interactive Text-Image Universal Embedder" url="https://arxiv.org/abs/2510.00523" authors="Wei-Yao Wang, Kazuya Tateishi, Qiyu Wu, Shusuke Takahashi, Yuki Mitsufuji" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2506.07033">preprint</a>{% endcapture %}
-{% include paper.html badge="WSDM 2026" title="Adapting to Evolving Data: Test-Time Expert Aggregation for Imbalanced Tabular Regression" url="https://arxiv.org/abs/2506.07033" authors="Yung-Chien Wang, Kuang-Da Wang, Wei-Yao Wang, Wen-Chih Peng" links=links %}
+{% include paper.html selected="false" badge="WSDM 2026" title="Adapting to Evolving Data: Test-Time Expert Aggregation for Imbalanced Tabular Regression" url="https://arxiv.org/abs/2506.07033" authors="Yung-Chien Wang, Kuang-Da Wang, Wei-Yao Wang, Wen-Chih Peng" links=links %}
 
 {% include paper.html selected="false" badge="ACL SRW 2025" award="Oral" title="Tree-of-Report: Table-to-Text Generation for Sports Game Reports with Tree-Structured Prompting" authors="Shang-Hsuan Chiang, Tsan-Tsung Yang, Kuang-Da Wang, Wei-Yao Wang, An-Zi Yen, Wen-Chih Peng" %}
 
@@ -166,7 +166,7 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% include paper.html selected="false" kind="workshop" badge="ICML Workshop 2023" title="Generating Turn-Based Player Behavior via Experience from Demonstrations" url="https://openreview.net/forum?id=9cuULoi7Ex" authors="Kuang-Da Wang, Wei-Yao Wang, Ping-Chun Hsieh, Wen-Chih Peng" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2212.12190">paper</a>{% endcapture %}
-{% include paper.html kind="workshop" badge="AAAI Workshop 2023" award="Best Paper" title="Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal" url="https://arxiv.org/abs/2212.12190" authors="Chih-Chia Li, Wei-Yao Wang, Wei-Wei Du, Wen-Chih Peng" links=links %}
+{% include paper.html selected="false" kind="workshop" badge="AAAI Workshop 2023" award="Best Paper" title="Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal" url="https://arxiv.org/abs/2212.12190" authors="Chih-Chia Li, Wei-Yao Wang, Wei-Wei Du, Wen-Chih Peng" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2302.07740">paper</a>{% endcapture %}
 {% include paper.html selected="false" kind="workshop" badge="AAAI Workshop 2023" title="Team Triple-Check at Factify 2: Parameter-Efficient Large Foundation Models with Feature Representations for Multi-Modal Fact Verification" url="https://arxiv.org/abs/2302.07740" authors="Wei-Wei Du, Hong-Wei Wu, Wei-Yao Wang, Wen-Chih Peng" links=links %}
