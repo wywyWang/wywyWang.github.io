@@ -45,6 +45,7 @@ I am also open to research collaboration. Please drop me an email if you are int
       <div class="tl-body">
         <div class="tl-org">Microsoft</div>
         <p class="tl-role">Research Intern, <a href="https://www.microsoft.com/en-us/research/project/document-ai/overview/">Document AI</a></p>
+        <p class="tl-note">Advisor: <a href="https://www.microsoft.com/en-us/research/people/paulhsu/">Paul Hsu</a></p>
         <div class="tl-meta">
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Seattle, USA</span>
           <span class="tl-when">Sep. 2023 – Dec. 2023</span>
@@ -70,6 +71,7 @@ I am also open to research collaboration. Please drop me an email if you are int
       <div class="tl-body">
         <div class="tl-org">Microsoft AI R&amp;D Center</div>
         <p class="tl-role">Research Intern, <a href="https://www.microsoft.com/en-us/research/project/document-ai/overview/">Document AI</a></p>
+        <p class="tl-note">Advisor: <a href="https://www.microsoft.com/en-us/research/people/paulhsu/">Paul Hsu</a></p>
         <div class="tl-meta">
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Taipei, Taiwan</span>
           <span class="tl-when">May 2022 – Nov. 2022</span>
@@ -95,6 +97,7 @@ I am also open to research collaboration. Please drop me an email if you are int
       <div class="tl-body">
         <div class="tl-org">National Yang Ming Chiao Tung University</div>
         <p class="tl-role">Ph.D. Researcher, <a href="https://lab-adsl-website.vercel.app/">Advanced Database System Laboratory</a></p>
+        <p class="tl-note">Advisor: <a href="https://sites.google.com/site/wcpeng/wcpeng">Prof. Wen-Chih Peng</a></p>
         <div class="tl-meta">
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
           <span class="tl-when">Jul. 2020 – Mar. 2024</span>
