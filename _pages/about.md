@@ -37,7 +37,6 @@ I am also open to research collaboration. Please drop me an email if you are int
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Tokyo, Japan</span>
           <span class="tl-when">Sep. 2024 – Present</span>
         </div>
-        <div class="tl-kind">Experience</div>
       </div>
     </div>
 
@@ -50,7 +49,6 @@ I am also open to research collaboration. Please drop me an email if you are int
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Seattle, USA</span>
           <span class="tl-when">Sep. 2023 – Dec. 2023</span>
         </div>
-        <div class="tl-kind">Experience</div>
       </div>
     </div>
 
@@ -64,7 +62,6 @@ I am also open to research collaboration. Please drop me an email if you are int
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Los Angeles, USA</span>
           <span class="tl-when">Mar. 2023 – Mar. 2024</span>
         </div>
-        <div class="tl-kind">Education · Experience</div>
       </div>
     </div>
 
@@ -77,7 +74,6 @@ I am also open to research collaboration. Please drop me an email if you are int
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Taipei, Taiwan</span>
           <span class="tl-when">May 2022 – Nov. 2022</span>
         </div>
-        <div class="tl-kind">Experience</div>
       </div>
     </div>
 
@@ -91,7 +87,6 @@ I am also open to research collaboration. Please drop me an email if you are int
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
           <span class="tl-when">Sep. 2020 – Mar. 2024</span>
         </div>
-        <div class="tl-kind">Education</div>
       </div>
     </div>
 
@@ -104,7 +99,6 @@ I am also open to research collaboration. Please drop me an email if you are int
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
           <span class="tl-when">Jul. 2020 – Mar. 2024</span>
         </div>
-        <div class="tl-kind">Experience</div>
       </div>
     </div>
 
@@ -118,7 +112,6 @@ I am also open to research collaboration. Please drop me an email if you are int
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
           <span class="tl-when">Jun. 2018 – Jun. 2022</span>
         </div>
-        <div class="tl-kind">Experience</div>
       </div>
     </div>
 
@@ -131,7 +124,6 @@ I am also open to research collaboration. Please drop me an email if you are int
           <span class="tl-place"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Hsinchu, Taiwan</span>
           <span class="tl-when">Sep. 2016 – Jun. 2020</span>
         </div>
-        <div class="tl-kind">Education</div>
       </div>
     </div>
 
