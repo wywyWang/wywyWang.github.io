@@ -1,9 +1,12 @@
-<details class="paper"{% unless include.selected == false %} data-selected{% endunless %}>
+{% capture paper_name_bold %}<b>Wei-Yao Wang</b>{% endcapture %}
+{% capture paper_name_mentored %}<b>Wei-Yao Wang<sup>♠</sup></b>{% endcapture %}
+{% assign authors_html = include.authors | replace: "Wei-Yao Wang♠", paper_name_mentored | replace: "Wei-Yao Wang", paper_name_bold %}
+<details class="paper"{% unless include.selected == "false" %} data-selected{% endunless %}>
   <summary>
     <span class="paper-badge">{{ include.badge }}</span>
     {% if include.url %}<a href="{{ include.url }}">{{ include.title }}</a>{% else %}<span class="paper-title">{{ include.title }}</span>{% endif %}
     {% if include.award %}<span class="paper-award">{{ include.award }}</span>{% endif %}
-    <span class="paper-authors">{{ include.authors }}</span>
+    <span class="paper-authors">{{ authors_html }}</span>
     {% if include.links %}<span class="paper-links">{{ include.links }}</span>{% endif %}
   </summary>
   {% if include.fig or include.desc %}

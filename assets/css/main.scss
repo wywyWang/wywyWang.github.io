@@ -42,7 +42,7 @@
 @import "papers";
 
 html {
-  scroll-padding-top: $masthead-height + 0.5em;
+  scroll-padding-top: calc(#{$masthead-height} + 8px);
 }
 
 :root {
