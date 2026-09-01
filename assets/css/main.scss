@@ -80,6 +80,11 @@ a {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+.masthead {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.35);
+  overflow: hidden;
+}
+
 .greedy-nav a,
 .masthead__menu-item a {
   color: var(--text-color);
@@ -95,6 +100,11 @@ a {
 
 .greedy-nav .visible-links a:before {
   background: var(--accent-color);
+  opacity: 0;
+}
+
+.greedy-nav .visible-links a:hover:before {
+  opacity: 1;
 }
 
 .author__name,
