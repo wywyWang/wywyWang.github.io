@@ -151,10 +151,10 @@ I am also open to research collaboration. Please drop me an email if you are int
 {% include paper.html selected="false" badge="Preprint" title="Neural Audio-Visual Chords: A Multimodal Framework for Temporally and Spatially Aligned Sound Generation from Visual Cues" authors="Christian Simon, Wei-Yao Wang, Dongseok Shim, Kazuki Shimada, Masato Ishii, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji" %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2608.27044">preprint</a>{% endcapture %}
-{% include paper.html badge="Preprint" title="Omni-Interactive Universal Embedder" url="https://arxiv.org/abs/2608.27044" authors="Wei-Yao Wang, Kazuya Tateishi, Shuyang Cui, Christian Simon, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji" links=links %}
+{% include paper.html badge="NeurIPS 2026" title="Omni-Interactive Universal Embedder" url="https://arxiv.org/abs/2608.27044" authors="Wei-Yao Wang, Kazuya Tateishi, Shuyang Cui, Christian Simon, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2510.15543">preprint</a>{% endcapture %}
-{% include paper.html selected="false" badge="EMNLP 2026" title="MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval" url="https://arxiv.org/abs/2510.15543" authors="Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji" links=links %}
+{% include paper.html selected="false" badge="EMNLP 2026" award="Oral" title="MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval" url="https://arxiv.org/abs/2510.15543" authors="Qiyu Wu, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji" links=links %}
 
 {% capture links %}<a class="paper-link-btn" href="https://arxiv.org/abs/2510.15306v1">preprint</a>{% endcapture %}
 {% include paper.html selected="false" badge="KDD 2026" title="WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation" url="https://arxiv.org/abs/2510.15306v1" authors="Kuang-Da Wang, Zhao Wang, Wei-Yao Wang♠, Yotaro Shimose, Shingo Takamatsu" links=links %}
