@@ -336,6 +336,19 @@ I am also open to research collaboration. Please drop me an email if you are int
       <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
       <div class="tl-body">
         <div class="tl-line">
+          <span class="tl-org">Top AC</span>
+          <span class="tl-when">Oct. 2026</span>
+        </div>
+        <div class="tl-line tl-line--sub">
+          <span class="tl-role">NeurIPS 2026</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-card tl-card--honor tl-card--two">
+      <div class="tl-icon" aria-hidden="true"><i class="fas fa-award"></i></div>
+      <div class="tl-body">
+        <div class="tl-line">
           <span class="tl-org">Gold Reviewer</span>
           <span class="tl-when">May 2026</span>
         </div>
