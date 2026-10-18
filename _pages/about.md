@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Wei-Yao Wang. I am a research scientist in the **[Creative AI Lab](https://sony.github.io/creativeai/)** at Sony, working on **interactive multimodal models for content creation, spanning omni‑modal LLMs/embedders, video generation/editing, and agentic understanding**. I received my Ph.D. and BS degrees from National Yang Ming Chiao Tung University and National Chiao Tung University in Taiwan respectively, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/wcpeng). During my academic journey, I served as a visiting researcher at the ScAi lab advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/) at the University of California, Los Angeles. I was a research intern at [Document AI](https://www.microsoft.com/en-us/research/project/document-ai/overview/) in Microsoft in Seattle and Microsoft AI R&D Center in Taipei advised by [Paul Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/), working on **low-resource field extractions from multi-modal documents with LLMs**.
 
-My research intersts include Interactive Omnimodal Models; Multimodal LLMs; LLM Agents; Multimodal Representation Learning; Video Generation & Understanding; and Creative AI; which has been published more than 40+ papers in international journals and major peer-reviewed conference proceedings (e.g., ICLR, NeurPS, ICML, CVPR, KDD, AAAI, ACL, EMNLP), including multiple best paper awards. I serve on the program committees of international conferences including ICLR, ICCV, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([GenProCC@NeurIPS-25](https://genprocc.github.io/), [IT4PSS@IJCAI23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP@NAACL-22&TheWebConf-22](https://sites.google.com/view/socialnlp2022/)).
+My research intersts include Interactive Omnimodal Models; Multimodal LLMs; LLM Agents; Multimodal Representation Learning; Video Generation & Understanding; and Creative AI; which has been published more than 40+ papers in international journals and major peer-reviewed conference proceedings (e.g., ICLR, NeurPS, ICML, CVPR, KDD, AAAI, ACL, EMNLP), including multiple best paper awards. I serve as the [Chair of the Creative AI Track at NeurIPS-26](https://neurips.cc/Conferences/2026/Committees), and the (S)ACs and program committees of international conferences including ICLR, ICCV, AAAI, ACL ARR, KDD, IJCAI, CIKM, and PAKDD and workshop organizers ([GenProCC@NeurIPS-25](https://genprocc.github.io/), [IT4PSS@IJCAI23-24](https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html), [SocialNLP@NAACL-22&TheWebConf-22](https://sites.google.com/view/socialnlp2022/)).
 
 I am also open to research collaboration. Please drop me an email if you are interested in.
 
@@ -315,6 +315,7 @@ I am also open to research collaboration. Please drop me an email if you are int
 
 <div class="cv-role">Organizer</div>
 <div class="cv-pills">
+  <a class="paper-badge" href="https://genprocc.github.io/">Chair of Creative AI Track @ NeurIPS'26</a>
   <a class="paper-badge" href="https://genprocc.github.io/">GenProCC @ NeurIPS'25</a>
   <a class="paper-badge" href="https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html">ITPSS @ IJCAI'23-24</a>
   <span class="paper-badge">CoachAI Challenge @ IJCAI'23</span>
